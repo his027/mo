@@ -1,8 +1,7 @@
-# migo
+# mo
 
 
 
 tvlogo
-直连地址 https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/
+直连地址 https://raw.githubusercontent.com/his027/mo/master/tvlogo/...
 
-比如 https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-1.png 具体参见目录结构
