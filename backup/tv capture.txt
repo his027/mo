@@ -32,9 +32,18 @@ https://stream.mtime.info/keys?key=KPSjwpDu&channel=hbohd/live/hbohd/RyyXGmeL.m3
 https://stream.mtime.info/live/hbohd/RyyXGmeL.m3u8/key=KPSjwpDu&channel=hbohd
 
 http://live.grtn.cn//zjpd/sd/live.m3u8
-http://nclive.grtn.cn/zjpd/sd/live.m3u8?_upt=eb0777611586269534
+
+http://nclive.grtn.cn/zjpd/sd/live.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 
+广州综合   https://aplays.gztv.com/sec/zhonghe.m3u8?auth_key=1586358232-0-0-f62cf0cd307cf74dbe8764dbdb93cb44
 
+新闻    https://aplays.gztv.com/sec/xinwen.m3u8?auth_key=1586358329-0-0-06a620a7e9748b3c7195528aae3d4132
 
+法制   https://aplays.gztv.com/sec/jingji.m3u8?auth_key=1586358359-0-0-c1e22df6d9c536961a9b130cc420d7ea
 
+影视   https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1586358375-0-0-00072d51bf27626cf0b0398bb8e230c3
+
+生活   https://aplays.gztv.com/sec/shenghuo.m3u8?auth_key=1586358393-0-0-a6eebf00a4acb04f181bc56104f82dbe
+
+少儿   https://aplays.gztv.com/sec/shaoer.m3u8?auth_key=1586358411-0-0-7ae8771d2d6b248d74859aceef000d5b 
