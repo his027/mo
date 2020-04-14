@@ -25,6 +25,29 @@ http://aldirect.rtmp.huya.com/backsrc/29359996-2689606170-11551770539269816320-2
 
 https://aldirect.rtmp.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
 
+广东珠江,http://sttv.aote.xyz/gdtv/?id=CHTVB26
+http://sttv.aote.xyz/gd/?id=zjpd
+广东综艺,http://sttv.aote.xyz/gdtv/?id=CHTVP4K
+广东卫视,http://sttv.aote.xyz/gdtv/?id=CHTVB25
+广东体育,http://sttv.aote.xyz/gdtv/?id=CHTVB27
+广东新闻,http://sttv.aote.xyz/gdtv/?id=CHTVB28
+嘉佳卡通,http://sttv.aote.xyz/gdtv/?id=CHTVB29
+广东国际,http://sttv.aote.xyz/gdtv/?id=CHTVB30
+广东公共,http://sttv.aote.xyz/gdtv/?id=CHTVB31
+广东公共,http://sttv.aote.xyz/gd/?id=ggpd
+广东高尔夫,http://sttv.aote.xyz/gdtv/?id=CHTVB32
+广东房产,http://sttv.aote.xyz/gdtv/?id=CHTVB33
+广东影视,http://sttv.aote.xyz/gdtv/?id=CHTVPtvs4
+南方卫视,,http://sttv.aote.xyz/gdtv/?id=CHTVPtvs2
+经济科教,,http://sttv.aote.xyz/gdtv/?id=CHTVPtvs1hd
+广东少儿,http://sttv.aote.xyz/gdtv/?id=CHTVPtvs5
+嘉佳卡通,http://sttv.aote.xyz/gdtv/?id=CHTVB29
+
+揭阳综合,http://sttv.aote.xyz/gd/?id=jyzh
+
+http://[2001:250:4814:1::200]/hls/cctv13.m3u8
+http://[2001:250:5405:13::47]/hls/cctv13-HQ.m3u8
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 
 
 https://stream.mtime.info/keys?key=KPSjwpDu&channel=hbohd/live/hbohd/RyyXGmeL.m3u8
