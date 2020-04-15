@@ -45,9 +45,8 @@ http://sttv.aote.xyz/gd/?id=zjpd
 
 揭阳综合,http://sttv.aote.xyz/gd/?id=jyzh
 
-http://[2001:250:4814:1::200]/hls/cctv13.m3u8
-http://[2001:250:5405:13::47]/hls/cctv13-HQ.m3u8
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+http://ymds.52rctc.com/cibn.php?id=34
+
 
 
 https://stream.mtime.info/keys?key=KPSjwpDu&channel=hbohd/live/hbohd/RyyXGmeL.m3u8
