@@ -2,6 +2,8 @@ http://aldirect.rtmp.huya.com/huyalive/1199514198973-1199514198973-5232659111706
 
 http://aldirect.rtmp.huya.com/huyalive/1444264308-1444264308-6203067969640071168-4655558802-10057-A-0-1_1200/playlist.m3u8
 
+http://bd.flv.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.m3u8
+
 ws.streamhls
 al.flv             aldirect.rtmp
 js.hls             aldirect.rtmp
