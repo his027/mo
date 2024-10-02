@@ -28,7 +28,7 @@
 {"name":"🟢范明ipv6","type":0,"boot":false,"pass":true,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"🟢Gather💍","type":0,"pass":true,"boot":true,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"timeout":10},
 
-{"name":"🏳️‍🌈自动扫描zhoujie218","type":0,"timeout": 40🟢,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.zhoujie218.top/tv/iptv4.m3u"},
+{"name":"🏳️‍🌈自动扫描zhoujie218","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.zhoujie218.top/tv/iptv4.m3u"},
 
 {"name":"🏳️‍🌈自动更新ssili126📺","type":0,"boot":true,"pass":true,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
