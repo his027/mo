@@ -12,12 +12,71 @@
 {"key":"fm-Iktv","name":"🦁KTV","type":3,"api":"csp_Iktv","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"fm-Yinyuetai","name":"🦁音悦台","type":3,"api":"csp_Yinyuetai","searchable":1,"quickSearch":1,"changeable":0},
 
-{"key":"⚓T4黑木耳克隆11","name":"⚓黑木耳克隆","type":4,"api":"http://zhangqun1818.serv00.net/225.php","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"provide采集集合","name":"📼采集集合","type":1,"api":"http://zhangqun1818.serv00.net/cjjh.php","searchable":1,"changeable":1},
+},
+        {
+            "key": "美剧迷",
+            "name": "美剧迷|网盘",
+            "type": 3,
+            "api": "csp_Meijumi",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 120,
+            "ext": "http://www.xueximeng.com/p/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
+        },
+        {
+            "key": "Libvio",
+            "name": "LIBVIO|网盘",
+            "type": 3,
+            "api": "csp_Libvio",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "http://www.xueximeng.com/p/lib/tokenm.json$$$https://www.libvio.fun/$$$null"
+        },
+        {
+            "key": "Bt0",
+            "name": "不太灵|磁力",
+            "type": 3,
+            "api": "csp_Bt0",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "http://www.xueximeng.com/p/lib/tokenm.json$$$null$$$noproxy$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
 
-{"key":"⚓T4-heimuer","name":"黑木耳⚓","type":4,"api":"https://tang.hz.cz/power/hme?token=938bbe71","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
+        {
+            "key": "TGYunPanLocal",
+            "name": "TG搜索Local|网盘搜索",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 60,
+            "ext": "http://www.xueximeng.com/p/pg.jar$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"
+        },
+        {
+            "key": "TGYunPan",
+            "name": "TG搜索|网盘搜索",
+            "type": 3,
+            "api": "csp_TGYunPan",
+            "timeout": 60,
+            "ext": "http://www.xueximeng.com/p/lib/tokenm.json$$$http://tg.seczh.com/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$noproxy$$$1"
+        },
+        {
+            "key": "TGYunPan18",
+            "name": "TG搜索|涩涩网盘",
+            "type": 3,
+            "api": "csp_TGYunPan",
+            "timeout": 60,
+            "ext": "http://www.xueximeng.com/p/lib/tokenm.json$$$http://tg.seczh.com/$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314$$$noproxy$$$1"
+        },
+        
 
 
 
@@ -474,9 +533,99 @@
 
 {"name":"💠Json","type":1,"boot":true,"pass": true,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
 
+                "cdn-tos",
+                "obj/tos-cn"
+            ]
+        },
+        {
+            "host": "www.fun4k.com",
+            "rule": [
+                "https://hd.ijycnd.com/play",
+                "index.m3u8"
+            ]
+        },
+        {
+            "host": "zjmiao.com",
+            "rule": [
+                "play.videomiao.vip/API.php",
+                "time=",
+                "key=",
+                "path="
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "農民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "夜市",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驢",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        },
+        {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "社 區",
+                "x u u",
+                "最 新",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29"
+            ]
+        }
+    ],
+"spider":"http://www.xueximeng.com/p/pg.jar",
 
-
-"spider":"./p1g.zip",
+"1spider":"./p1g.zip",
 "logo":"./update/lib/logoco.png1",
 
 
