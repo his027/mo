@@ -485,16 +485,15 @@
 {"name":"🟢BESTV-zball","type":0,"boot":true,"pass":true,"url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u","logo":"https://epg.112114.eu.org/logo/{name}.png","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","ua":"Mozilla/5.0(Windows NT 10.0; Win64; x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"},
 
 
-
-{"name":"☢️限H手机🉑018本地测试","type":0,"boot":false,"pass":true,"url":"file://Download/Telegram/018.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-
-
-
-{"name":"☢️限H手机🉑019本地测试","type":0,"boot":false,"pass":true,"url":"file://Download/Telegram/019.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"☢️限H手机🉑018本地测试","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:9978/file/Download/Telegram/018.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 
-{"name":"☢️限H手机🉑020本地测试","type":0,"boot":false,"pass":true,"url":"file://Download/Telegram/020.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"☢️限H手机🉑019本地测试","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:9978/file/Download/Telegram/019.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+
+
+{"name":"☢️限H手机🉑020本地测试","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:9978/file/Download/Telegram/020.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 {"name":"💠Json","type":1,"boot":true,"pass": true,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
