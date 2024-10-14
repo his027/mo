@@ -63,7 +63,7 @@
 "libxl_url":"./lib/libxl_thunder_sdk.so",
 "youtube_proxy":"proxy",
 "singbox_url":"./lib/sing-box.gz",
-"singbox_subscribe_url":"http://127.0.0.1:9978/file/config.yaml|https://igdux.top/bNNp|https://oss.v2rayse.com/proxies/data/2024-06-23/kxRzdhA.json|https://igdux.top/KXCN|https://igdux.top/brEP",
+"singbox_subscribe_url":"",
 "singbox_clash2singbox_url":"./lib/clash2singbox.gz",
 "singbox_template_url":"./lib/singbox.json",
 "singbox_wgcf_json_url":"./lib/wgcf2singbox.json",
