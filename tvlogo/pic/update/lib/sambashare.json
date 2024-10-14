@@ -1,0 +1,15 @@
+user:pass@192.168.101.13/share12 Samba分享12 0 updated_at DESC
+
+Runa020:1254@192.168.101.99/d Software0 0 updated_at DESC
+user:pass@192.168.101.99/d Software1 0 updated_at DESC
+
+user:pass@192.168.101.99/d Software2 0 updated_at DESC
+192.168.101.99/d Software3 0 updated_at DESC
+1:1@192.168.101.99/d Software4 0 updated_at DESC
+192.168.101.99/d Software8 0 updated_at DESC
+192.168.101.99/d Software5
+192.168.101.99/d Software6 0
+192.168.101.99/d Software7 0 updated_at DESC
+192.168.101.100/d Software100
+192.168.101.100/d Software101 0 updated_at DESC
+Fishel:1254@192.168.101.100/d Software102 0 updated_at DESC
