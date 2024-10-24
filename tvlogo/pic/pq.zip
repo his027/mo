@@ -6,7 +6,12 @@
 
 {"key":"csp豆瓣预告","name":"🔍电影院预告","type":3,"api":"csp_XBPQ","jar":"./JARXYQAL.jar;md5;8B30CFF70C95C15E56273B5742DF52A0","playerType":2,"ext":{"首页":"正在热映","图片代理":"","分类url":"https://movie.douban.com/{cateId}/;;aRC","分类":"即将上映$cinema/later#正在热映$cinema/nowplaying","数组":"class=\"item mod &&</ul>||正在热映--class=\"list-item&&</ul>","图片":"src=\"&&\"","标题":"\"intro\">&&</a>","链接":"href=\"&&\"","副标题":"data-score=\"&&\"+class=\"release-date\">&&</li>","播放数组":"<li class=\"video&&</li>","播放列表":"<a&&</a>","播放标题":"alt=\"&&\"","播放链接":"https://m.douban.com+href=\"&&\""}},
 
-{"key":"hipy_js_caijiGithub","name":"💖CMS-King💫online","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://mirror.ghproxy.com/https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/caiji.json"},
+{"key":"hipy_js_caijiGithub","name":"💖CMS-King💫online","type":3,"api":"./update/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./update/Collectdrpy.js?type=url&params=../caiji.json"},
+
+
+
+
+
 
 {"key":"fm-酷狗","name":"🦁酷狗🔖","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"fm-Iktv","name":"🦁KTV","type":3,"api":"csp_Iktv","searchable":1,"quickSearch":1,"changeable":0},
