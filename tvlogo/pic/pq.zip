@@ -11,6 +11,8 @@
 
 
 
+{"key":"Hipy_js_央视大全💫","name":"💫央视大全","type":3,"api":"./update/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext":"./央视大全.js"},
+
 
 
 {"key":"fm-酷狗","name":"🦁酷狗🔖","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":1,"changeable":0},
