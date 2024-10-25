@@ -17,9 +17,9 @@
 
 
 
-{"name":"📼极速","url":"https://jszyapi.com","parse_url":"","cate_exclude":""},
+{"name":"📼极速","url":"https://jszyapi.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
 
-{"name":"📼飘零","url":"https://p2100.net","parse_url":"","cate_exclude":""},
+{"name":"📼飘零","url":"https://p2100.net","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
 
 {"name":"📼光速","url":"https://api.guangsuapi.com","parse_url":"","cate_exclude":""},
 
@@ -33,13 +33,9 @@
 
 {"name":"📼至圣云","url":"http://82.156.40.118:1234","parse_url":"","cate_exclude":""},
 
-{"name":"📼tv采集","url":"http://tvcaiji.pankk.cn","parse_url":"","cate_exclude":""},
 
-{"name":"📼艾旦","url":" https://lovedan.net","parse_url":"","cate_exclude":""},
 
-{"name":"📼快车","url":" https://caiji.kczyapi.com","parse_url":"","cate_exclude":""},
-
-{"name":"📼kk","url":" https://kkzy.me","parse_url":"","cate_exclude":""},
+{"name":"📼快车","url":" https://caiji.kczyapi.com","parse_url":"","api":"/api.php/provide/vod/at/xml/","cate_exclude":""},
 
 
 
@@ -53,15 +49,6 @@
 {"name":"360资源","url":"https://360zy.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
 
 {"name":"豪华资源","url":"https://hhzyapi.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
-
-
-
-
-
-
-{"name":"📼麻豆姐姐🔞","url":"https://www.md91.cc","parse_url":"","cate_exclude":""},
-
-
 
 
 
