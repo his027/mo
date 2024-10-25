@@ -1,4 +1,59 @@
-[{"name":"业余资源","url":"https://yyff.540734621.xyz","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+[
+
+
+{"name":"📼超级影视","url":"http://cjvip.free.hr","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+
+{"name":"黑木耳资源","url":"https://www.heimuer.tv","parse_url":"","cate_exclude":"^电影$|^电视剧$|^综艺$|^动漫$"},
+
+{"name":"iku喵","url":"http://caiji.ikum.cc:8099","parse_url":"","cate_exclude":""},
+
+{"name":"暴风资源","url":"https://bfzyapi.com","parse_url":"","searchable":0,"cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+
+{"name":"量子资源","url":"https://cj.lziapi.com","parse_url":"","searchable":0,"cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+
+{"name":"非凡资源","url":"http://cj.ffzyapi.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+
+
+
+
+
+{"name":"📼毛子","url":"http://cj.ffzyapi.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+
+
+{"name":"📼49资源","url":"https://49zyw.com","parse_url":"","cate_exclude":"国产剧|短剧|欧美剧|香港剧"},
+
+
+
+{"name":"📼索尼","url":"https://suoniapi.com","parse_url":"","cate_exclude":""},
+
+
+
+{"name":"📼非凡资源","url":"http://cj.ffzyapi.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"name":"业余资源","url":"https://yyff.540734621.xyz","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
 
 {"name":"360资源","url":"https://360zy.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
 
@@ -8,7 +63,6 @@
 
 
 
-{"name":"📼超级影视","url":"http://cjvip.free.hr","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
 
 {"name":"📼麻豆姐姐🔞","url":"https://www.md91.cc","parse_url":"","cate_exclude":""},
 
@@ -27,14 +81,8 @@
 
 {"name":"飞刀资源","url":"http://www.feidaozy.com","parse_url":"","cate_exclude":"^电影$|^电视剧$|^综艺$|^动漫$"},
 
-{"name":"黑木耳资源","url":"https://www.heimuer.tv","parse_url":"","cate_exclude":"^电影$|^电视剧$|^综艺$|^动漫$"},
 
-{"name":"iku喵","url":"http://caiji.ikum.cc:8099","parse_url":"","cate_exclude":""},
 
-{"name":"暴风资源","url":"https://bfzyapi.com","parse_url":"","searchable":0,"cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
 
-{"name":"量子资源","url":"https://cj.lziapi.com","parse_url":"","searchable":0,"cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
-
-{"name":"非凡资源","url":"http://cj.ffzyapi.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
 
 {"name":"乐视资源","url":"https://leshiapi.com","parse_url":"https://leshivideoplayurl.com/?url=","cate_exclude":"","api":"/api.php/provide/vod/at/json/"}]
