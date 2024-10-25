@@ -10,25 +10,72 @@
 
 {"url":"http://127.0.0.1:9978/file/tvbox/maoji/dad.php","name":"老人专线Local🎀"},
 
-{"url":"http://127.0.0.1:9978/file/tvbox/wangpan/wangpan.json","name":"🚀①网盘线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/One/One.json","name":"🚀②One线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/PG/PG.json","name":"🚀③PG线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/zhenxin/zhenxin.json","name":"🚀④真心线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/OK/OK.json","name":"🚀⑤OK线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/fty/fty.json","name":"🚀⑥饭太硬线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/xiaosa/xiaosa.json","name":"🚀⑦潇洒线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/xiangyaqing/xiangyaqing.json","name":"🚀⑧香雅情线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/feimao/feimao.json","name":"🚀⑨肥猫线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/chayu/chayu.json","name":"🚀⑩茶余线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/wangerxiao/wangerxiao.json","name":"🚀⑪放牛线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/kaixin/kaixin.json","name":"🚀⑫开心线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox//wuyiyun/wuyiyun.json","name":"🚀⑬无意云线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/miaoyingshi/miaoyingshi.json","name":"🚀⑭喵影视线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/chunying/chunying.json","name":"🚀⑮春盈线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/qinglong/qinglong.json","name":"🚀⑯青龙线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/daozhang/daozhang.json","name":"🚀⑰道长线路"},
-{"url":"http://127.0.0.1:9978/file/tvbox/gaotianliuyun/gaotianliuyun.json","name":"🚀⑱高天流云"},
 
+     {
+      "url": "http://127.0.0.1:9978/file/tvbox/wangpan/wangpan.json",
+      "name": "🚀①网盘线路"
+    },
+     {
+      "url": "http://127.0.0.1:9978/file/tvbox/One/One.json",
+      "name": "🚀②One线路"
+    },		
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/daozhang/daozhang.json",
+      "name": "🚀③道长线路"
+    },
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/zhenxin/zhenxin.json",
+      "name": "🚀④真心线路"
+    },	
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/OK/OK.json",
+      "name": "🚀⑤OK线路"
+    },
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/fty/fty.json",
+      "name": "🚀⑥饭太硬线路"
+    }, 
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/xiaosa/xiaosa.json",
+      "name": "🚀⑦潇洒线路"
+    },	
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/xiangyaqing/xiangyaqing.json",
+      "name": "🚀⑧香雅情线路"
+	},  
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/feimao/feimao.json",
+      "name": "🚀⑨肥猫线路"
+    },		
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/T4/T4.json",
+      "name": "🚀⑩T4线路"
+    },
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/wangerxiao/wangerxiao.json",
+      "name": "🚀⑪放牛线路"
+    },
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/gaotianliuyun/gaotianliuyun.json",
+      "name": "🚀⑫高天流云"
+    },	
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/wuyiyun/wuyiyun.json",
+      "name": "🚀⑬无意线路"
+    },	
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/miaoyingshi/miaoyingshi.json",
+      "name": "🚀⑭喵影视线路"
+    },
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/nanfeng/nanfeng.json",
+      "name": "🚀⑮南风线路"
+    }, 	
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/qinglong/qinglong.json",
+      "name": "🚀⑯青龙线路"
+    },
+    
 
 
 

@@ -17,34 +17,29 @@
 
 
 
-{"name":"📼毛子","url":"http://cj.ffzyapi.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+{"name":"📼极速","url":"https://jszyapi.com","parse_url":"","cate_exclude":""},
 
+{"name":"📼飘零","url":"https://p2100.net","parse_url":"","cate_exclude":""},
 
-{"name":"📼49资源","url":"https://49zyw.com","parse_url":"","cate_exclude":"国产剧|短剧|欧美剧|香港剧"},
+{"name":"📼光速","url":"https://api.guangsuapi.com","parse_url":"","cate_exclude":""},
 
+{"name":"📼小喵","url":"http://zy.xiaomaomi.cc","parse_url":"","cate_exclude":""},
 
+{"name":"📼39kan","url":"https://www.39kan.com/","parse_url":"","cate_exclude":""},
 
-{"name":"📼索尼","url":"https://suoniapi.com","parse_url":"","cate_exclude":""},
+{"name":"📼映迷","url":"www.inmi.app/","parse_url":"","cate_exclude":""},
 
+{"name":"📼速影","url":"https://xn--k5d-suyingtvcom-lc40a84t7o9i3urako0c.suyingok.com","parse_url":"","cate_exclude":""},
 
+{"name":"📼至圣云","url":"http://82.156.40.118:1234","parse_url":"","cate_exclude":""},
 
-{"name":"📼非凡资源","url":"http://cj.ffzyapi.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+{"name":"📼tv采集","url":"http://tvcaiji.pankk.cn","parse_url":"","cate_exclude":""},
 
+{"name":"📼艾旦","url":" https://lovedan.net","parse_url":"","cate_exclude":""},
 
+{"name":"📼快车","url":" https://caiji.kczyapi.com","parse_url":"","cate_exclude":""},
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+{"name":"📼kk","url":" https://kkzy.me","parse_url":"","cate_exclude":""},
 
 
 
