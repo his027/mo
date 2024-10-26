@@ -17,9 +17,9 @@
 
 
 
-{"name":"📼极速","url":"https://jszyapi.com","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+{"name":"📼极速","url":"https://jszyapi.com","parse_url":"","cate_exclude":""},
 
-{"name":"📼飘零","url":"https://p2100.net","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},
+{"name":"📼飘零","url":"https://p2100.net","parse_url":"","cate_exclude":""},
 
 {"name":"📼光速","url":"https://api.guangsuapi.com","parse_url":"","cate_exclude":""},
 
@@ -32,6 +32,31 @@
 {"name":"📼速影","url":"https://xn--k5d-suyingtvcom-lc40a84t7o9i3urako0c.suyingok.com","parse_url":"","cate_exclude":""},
 
 {"name":"📼至圣云","url":"http://82.156.40.118:1234","parse_url":"","cate_exclude":""},
+
+
+{"name":"📼泽少","url":"http://122.228.85.203:1000","parse_url":"","cate_exclude":""},
+
+
+
+
+
+{"name":"📼大米星球","url":"https://dmz8k4.wiki","parse_url":"","cate_exclude":""},
+{"name":"📼小马影视","url":"https://mas.szyyds.cn","parse_url":"","cate_exclude":""},
+{"name":"📼河狸影视","url":"https://www.heli888.cc","parse_url":"","cate_exclude":""},
+{"name":"📼银河影视","url":"http://134.175.219.46","parse_url":"","cate_exclude":""},
+
+{"name":"📼爱坤","url":"ttps://ikunzyapi.com","parse_url":"","cate_exclude":""},
+{"name":"📼茶杯狐","url":"https://hhzyapi.com","parse_url":"","cate_exclude":""},
+{"name":"📼teyonds视","url":"http://tool.teyonds.com/api","parse_url":"","cate_exclude":""},
+
+
+
+
+
+
+
+
+
 
 
 
