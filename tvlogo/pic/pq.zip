@@ -1,5 +1,7 @@
 
 {"sites": [
+{"key":"fmbili-VIP","name":"💖电视墙(VIP)❤️","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"filterable":1,"ext":{"cookie":"","type":"儿童#4K#8K#假窗#白噪音#动物世界#美丽中国#美丽地球#云旅行#美食#震撼#游泳#电影解说#MV#影视#音乐私藏#怀旧经典#摄影#魔术#知识#英语#公开课#学而思"}},
+
 
 {"key":"csp-Aid","name":"🚑急救┃科普💖","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
@@ -16,10 +18,11 @@
 
 
 {"key":"fm-酷狗","name":"🦁酷狗🔖","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"fm-Iktv","name":"🦁KTV","type":3,"api":"csp_Iktv","searchable":1,"quickSearch":1,"changeable":0},
+
 {"key":"fm-Yinyuetai","name":"🦁音悦台","type":3,"api":"csp_Yinyuetai","searchable":1,"quickSearch":1,"changeable":0},
 
 
+{"key":"GUAZI🏁","name":"❤瓜子🏁1080","type":3,"searchable":1,"quickSearch":1,"api":"csp_Gz360","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729346339841/1020.jar"},
 
         {
             "key": "TGYunPan",
@@ -29,16 +32,13 @@
             "timeout": 60,
             "ext": "http://www.xueximeng.com/p/lib/tokenm.json$$$http://tg.seczh.com/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$noproxy$$$1"
         },
-        {
-            "key": "TGYunPan18",
-            "name": "TG搜索|涩涩网盘",
-            "type": 3,
-            "api": "csp_TGYunPan",
-            "timeout": 60,
-            "ext": "http://www.xueximeng.com/p/lib/tokenm.json$$$http://tg.seczh.com/$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314$$$noproxy$$$1"
-        },
-        
 
+{"key":"meow-gzys","name":"瓜子┃🏁","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"timeout":30,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+{"key":"meow-nkys","name":"耐看┃🏁","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+{"key":"meow-shys","name":"骚火┃🏁","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+{"key":"meow-ygys","name":"一个┃🏁","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://yigeg.pro","jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+{"key":"meow-free","name":"Free┃🏁","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"click":"document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();","jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+{"key":"meow-qyys","name":"奇优┃🏁","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 
 
 {"key":"XBPQ-MFKYSqzy998","name":"🇹影视2K🍁","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./JARXYQAL.jar;md5;8B30CFF70C95C15E56273B5742DF52A0","ext":{"站名":"免费看影视","作者":"yydf","主页url":"https://qzy998-1.ysgq.xyz","地区":"地区：&&</p","年代":"年代：&&</p","语言":"语言：&&</p","类型":"类型：&&</p","导演":"导演：&&</p","主演":"演员：&&</p","简介":"资源免费，广告勿信！”+<div class=\"desc_txt cf ec-palytcji cor3\">&&</div>","搜索url":"/index.php/vod/search.html?wd={wd}","数组":"<div class=\"pack-packcover returl list-top-b\">&&</div","链接":"href=\"&&\"","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"<span class=\"pack-prb hidden\">&&</span>","线路数组":"<a class=\"channelname swiper-slide&&</a>","线路名称":"</i>&nbsp;&&</span>","播放数组":"<ul class=\"content_playlist cf\">&&</ul>","播放列表":">&&</a","分类url":"https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"}},
