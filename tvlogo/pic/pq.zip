@@ -236,17 +236,14 @@
 
 {"name":"📺aktv🌐","type":0,"boot":true,"pass":true,"url":"https://aktv.top/live.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"肥羊国内直播🏳️‍🌈allinone","type":0,"boot":true,"pass":true,"url":"http://127.0.0.1:35455/tv.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"肥羊TPTV🏳️‍🌈allinone🟢","type":0,"boot":true,"pass":true,"url":"http://127.0.0.1:35455/tptv.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"肥羊B站🏳️‍🌈bililive🟢","type":0,"boot":true,"pass":true,"url":"http://127.0.0.1:35455/bililive.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"肥羊虎牙🏳️‍🌈huyayqk🟢","type":0,"boot":true,"pass":true,"url":"http://127.0.0.1:35455/huyayqk.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"肥羊斗鱼🏳️‍🌈douyuyqk🟢","type":0,"boot":true,"pass":true,"url":"http://127.0.0.1:35455/douyuyqk.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"肥羊YY🏳️‍🌈🟢","type":0,"boot":true,"pass":true,"url":"http://127.0.0.1:35455/yylunbo.m3u","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈国内直播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈TPTV🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tptv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈B站直播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/bililive.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈虎牙一起看🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/huyayqk.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈斗鱼一起看🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/douyuyqk.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈YY轮播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/yylunbo.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈广东联通🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/gdcucc.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"🏳️‍🌈自动扫描zhoujie218","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.zhoujie218.top/tv/iptv4.m3u"},
 
