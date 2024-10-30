@@ -34,6 +34,56 @@
             "ext": "http://www.xueximeng.com/p/lib/tokenm.json$$$http://tg.seczh.com/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$noproxy$$$1"
         },
 
+{
+			"key": "NanGua",
+			"name": "南瓜|弹幕",
+			"type": 3,
+			"api": "csp_NanGua",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "null$$$1"
+		},
+		{
+			"key": "天天",
+			"name": "天天┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
+		},
+		{
+			"key": "追剧",
+			"name": "追剧┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"ext": "http://app.kzjtv.com$$$null$$$1"
+		},
+		{
+			"key": "黑木耳",
+			"name": "黑木耳",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1
+		},
+
+	{
+			"key": "異界",
+			"name": "異界",
+			"type": 3,
+			"api": "csp_Ysj",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "短剧",
+			"name": "短剧",
+			"type": 3,
+			"api": "csp_Duanju",
+			"searchable": 0,
+			"changeable": 1,
+			"ext":"https://www.duanjutv.icu"
+		},
+
 {"key":"meow-gzys","name":"瓜子┃🏁","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"timeout":30,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 {"key":"meow-nkys","name":"耐看┃🏁","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 {"key":"meow-shys","name":"骚火┃🏁","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
