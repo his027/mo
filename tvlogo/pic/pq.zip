@@ -224,17 +224,49 @@
 
 
   "lives":[
+  
+  
+{"name":"🟢Gather🏳️‍🌈","type":0,"pass":true,"boot":true,"url":"https://tv.iill.top/m3u/Gather","playerType":1,"timeout":10},
+
+  
+  
 
 {"name":"🟢fanmingming-ipv6","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
 {"name":"📺YanG-1989 Gather","type":0,"boot":true,"pass":true,"url":"https://m3u.ibert.me/txt/y_g.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"🟢范明ipv6","type":0,"boot":false,"pass":true,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+
+
+
+
+
+
 {"name":"🟢Gather💍","type":0,"pass":true,"boot":true,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"timeout":10},
 
 {"name":"🟢范明明内置","type":0,"boot":true,"pass":true,"url":"https://8648.kstore.space/all-fmm.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"📺notabug🌐","type":0,"boot":true,"pass":true,"url":"https://notabug.org/jick/ji/raw/master/live","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"📺aktv🌐","type":0,"boot":true,"pass":true,"url":"https://aktv.top/live.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+
+
+{"name":"📺zblive","type":0,"boot":false,"pass":true,"url":"http://112.74.124.75:8899/zb.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+
+{"name":"📺Git.250992941","type":0,"boot":false,"pass":true,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+{"name":"📺Git.lwm212","type":0,"boot":false,"pass":true,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lwm212/JK/main/live/xyzb.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+
+{"name":"📺df电信","type":0,"boot":false,"pass":true,"url":"http://47.99.102.252/df.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+{"name":"📺Git.qist","type":0,"boot":false,"pass":true,"url":"https://testingcf.jsdelivr.net/gh/qist/tvbox@master/tvboxtv.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+{"name":"📺Git.jackson0829","type":0,"boot":false,"pass":true,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/CR.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+
+{"name":"📺Git.meilirenTV🔞","type":0,"boot":false,"pass":false,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 {"name":"肥羊🏳️‍🌈国内直播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
