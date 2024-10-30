@@ -1,6 +1,6 @@
 
 {"sites": [
-{"key":"fmbili-VIP","name":"💖电视墙(VIP)❤️","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"filterable":1,"ext":{"cookie":"","type":"儿童#4K#8K#假窗#白噪音#动物世界#美丽中国#美丽地球#云旅行#美食#震撼#游泳#电影解说#MV#影视#音乐私藏#怀旧经典#摄影#魔术#知识#英语#公开课#学而思"}},
+{"key":"fmbili-VIP","name":"💖电视墙(VIP)❤️","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"filterable":1,"ext":{"cookie":"","type":"4K#8K#假窗#白噪音#儿童#动物世界#美丽中国#美丽地球#云旅行#美食#震撼#游泳#电影解说#MV#影视#音乐私藏#怀旧经典#摄影#魔术#知识#英语#公开课#学而思"}},
 
 
 {"key":"csp-Aid","name":"🚑急救┃科普💖","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
@@ -11,6 +11,7 @@
 {"key":"hipy_js_caijiGithub","name":"💖CMS-King💫online","type":3,"api":"./update/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./update/Collectdrpy.js?type=url&params=../caiji.json"},
 
 
+{"key":"hipy_js_caijistaticGithub","name":"💖CMS镜静态King💫online","type":3,"api":"./update/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./update/Collectdrpy.js?type=url&params=../caijistatic.json"},
 
 
 {"key":"Hipy_js_央视大全💫","name":"💫央视大全","type":3,"api":"./update/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext":"./央视大全.js"},
