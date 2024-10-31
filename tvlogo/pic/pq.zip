@@ -3,6 +3,53 @@
 {"key":"fmbili-VIP","name":"💖电视墙(VIP)❤️","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"filterable":1,"ext":{"cookie":"","type":"4K#8K#假窗#白噪音#儿童#动物世界#美丽中国#美丽地球#云旅行#美食#震撼#游泳#电影解说#MV#影视#音乐私藏#怀旧经典#摄影#魔术#知识#英语#公开课#学而思"}},
 
 
+{
+      "key": "cesi",
+      "name": "秒播|4K",
+      "type": 3,
+      "api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "changeable":0,
+      "ext":"http://154.9.252.167:666/tvbox/js/?id=完美"
+    },
+    {
+      "key": "caihua",
+      "name": "采花|4K",
+      "type": 3,
+      "api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "changeable":0,
+      "ext":"http://154.9.252.167:666/tvbox/js/?id=文采"
+    },
+    {
+      "key": "youyoujs",
+      "name": "悠悠|弹幕",
+      "type": 3,
+      "api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+     "searchable":1,
+    "changeable":0,
+      "ext":"http://154.9.252.167:666/tvbox/js/?id=悠悠"
+    },
+ {
+      "key": "xiaoxiongjs",
+      "name": "小熊|弹幕",
+      "type": 3,
+      "api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "changeable":0,
+      "ext":"http://154.9.252.167:666/tvbox/js/?id=小熊"
+    },
+  {
+      "key": "jurenjs",
+      "name": "巨人|弹幕",
+      "type": 3,
+      "api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+     "searchable":1,
+    "changeable":0,
+      "ext":"http://154.9.252.167:666/tvbox/js/?key=gunnimadeshabixiaotou&id=巨人"
+    },
+
+
 {"key":"csp-Aid","name":"🚑急救┃科普💖","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
 
