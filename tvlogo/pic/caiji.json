@@ -52,20 +52,16 @@
 
 
 
-
-
-
-
-
-
-
 {"name":"📼快车","url":" https://caiji.kczyapi.com","parse_url":"","api":"/api.php/provide/vod/at/xml/","cate_exclude":""},
 
 
 
 
+{"name":"📼虎牙采集🔞","url":"https://www.huyaapi.com/","parse_url":"","api":"/api.php/provide/vod/at/xml/","cate_exclude":""},
 
+{"name":"📼黄艾薇🔞","url":"https://www.pgxdy.com/","parse_url":"","api":"/api.php/provide/vod/at/xml/","cate_exclude":""},
 
+{"name":"📼狼友会🔞","url":"https://api.lyhapi.com/","parse_url":"","api":"/api.php/provide/vod/at/xml/","cate_exclude":""},
 
 
 {"name":"业余资源","url":"https://yyff.540734621.xyz","parse_url":"","cate_exclude":"电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"},

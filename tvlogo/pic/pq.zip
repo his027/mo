@@ -18,6 +18,19 @@
 
 
 
+{"key":"fm-NanGua","name":"🦁南瓜|🦁","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1"},{"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn$$$null$$$1"},
+
+{"key":"fm-追剧","name":"追剧┃🦁","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com$$$null$$$1"},
+
+{"key":"api-黑木耳","name":"黑木耳","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+{"key":"fm-巴士","name":"巴士🦁","type":3,"api":"csp_Dm84","searchable":1,"changeable":0},
+
+{"key":"fm-異界","name":"異界🦁","type":3,"api":"csp_Ysj","searchable":1,"changeable":0},
+{"key":"fm-短剧","name":"短剧🦁","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu"},
+
+
+
 {"key":"fm-酷狗","name":"🦁酷狗🔖","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":1,"changeable":0},
 
 {"key":"fm-Yinyuetai","name":"🦁音悦台","type":3,"api":"csp_Yinyuetai","searchable":1,"quickSearch":1,"changeable":0},
@@ -278,7 +291,6 @@
   
   
 {"name":"🟢Gather🏳️‍🌈","type":0,"pass":true,"boot":true,"url":"https://tv.iill.top/m3u/Gather","playerType":1,"timeout":10},
-
   
   
 
