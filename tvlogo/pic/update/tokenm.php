@@ -54,11 +54,11 @@
 "wgcf_geoip_url":"./lib/geoip.dat.gz",
 "wgcf_json_url": "./lib/wgcf.json",
 "wgcf_vless_id": "",
-"wgcf_vless_optname": "singapore.com:443",
-"wgcf_vless_worker": "edgetunnel-free.pages.dev",
-"wgcf_vless_path": "/?ed=2048",
-"wgcf_vless_protocol": "vless",
-"wgcf_vless_network": "ws",
+"wgcf_vless_optname":"singapore.com:443",
+"wgcf_vless_worker":"edgetunnel-free.pages.dev",
+"wgcf_vless_path":"/?ed=2048",
+"wgcf_vless_protocol":"vless",
+"wgcf_vless_network":"ws",
 "wgcf_vless_tls": false,
 "libxl_url":"./lib/libxl_thunder_sdk.so",
 "youtube_proxy":"proxy",
@@ -77,17 +77,15 @@
 "pan115_auto_delete":true,
 "pan115_delete_code":"",
 "pan_order":"ali|quark|uc|115|yd|thunder|pikpak",
-"tgsearch_url":"./lib/tgsearch",
+"tgsearch_url":"./lib/tgsearch.tar.xz",
 "tgsearch_api_id":"",
 "tgsearch_api_hash":"",
 "tgsearch_api_session":"",
+"tgsearch_api_session_v1":"",
 "tgsearch_api_proxy":"proxy",
-"tgsearch_api_url":"http://127.0.0.1:10199/"
-
-
-
-
-
+"tgsearch_api_url":"http://127.0.0.1:10199/",
+"tgsearch_media_url":"http://127.0.0.1:10199/",
+"allinone_url":"./lib/allinone.tar.xz"
 
 
 
