@@ -13,8 +13,7 @@
 
 
 
-
-     {
+ {
       "url": "http://127.0.0.1:9978/file/tvbox/wangpan/wangpan.json",
       "name": "🚀①网盘线路"
     },
@@ -41,11 +40,11 @@
     {
       "url": "http://127.0.0.1:9978/file/tvbox/xiaosa/xiaosa.json",
       "name": "🚀⑦潇洒线路"
-    },	
+    },
     {
-      "url": "http://127.0.0.1:9978/file/tvbox/xiangyaqing/xiangyaqing.json",
-      "name": "🚀⑧香雅情线路"
-	},  
+      "url": "http://127.0.0.1:9978/file/tvbox/laohu/laohu.json",
+      "name": "🚀⑧老虎线路"
+    }, 		 
     {
       "url": "http://127.0.0.1:9978/file/tvbox/feimao/feimao.json",
       "name": "🚀⑨肥猫线路"
@@ -73,10 +72,18 @@
     {
       "url": "http://127.0.0.1:9978/file/tvbox/nanfeng/nanfeng.json",
       "name": "🚀⑮南风线路"
+    }, 
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/xiangyaqing/xiangyaqing.json",
+      "name": "🚀⑯香雅情线路"
+	}, 		
+    {
+      "url": "http://127.0.0.1:9978/file/tvbox/kaixin/kaixin.json",
+      "name": "🚀⑰开心线路"
     }, 	
     {
-      "url": "http://127.0.0.1:9978/file/tvbox/qinglong/qinglong.json",
-      "name": "🚀⑯青龙线路"
+      "url": "http://127.0.0.1:9978/file/tvbox/moyu/moyu.json",
+      "name": "🚀⑱摸鱼线路"
     },
     
 
