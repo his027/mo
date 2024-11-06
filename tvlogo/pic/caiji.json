@@ -38,21 +38,42 @@
 
 
 
-
 {"name":"📼大米星球","url":"https://dmz8k4.wiki","parse_url":"","cate_exclude":""},
 {"name":"📼小马影视","url":"https://mas.szyyds.cn","parse_url":"","cate_exclude":""},
 {"name":"📼河狸影视","url":"https://www.heli888.cc","parse_url":"","cate_exclude":""},
 {"name":"📼银河影视","url":"http://134.175.219.46","parse_url":"","cate_exclude":""},
 
 {"name":"📼爱坤","url":"ttps://ikunzyapi.com","parse_url":"","cate_exclude":""},
-{"name":"📼茶杯狐","url":"https://hhzyapi.com","parse_url":"","cate_exclude":""},
+
 {"name":"📼teyonds视","url":"http://tool.teyonds.com/api","parse_url":"","cate_exclude":""},
 
 
 
 
 
-{"name":"📼快车","url":" https://caiji.kczyapi.com","parse_url":"","api":"/api.php/provide/vod/at/xml/","cate_exclude":""},
+{"name":"📼快车","url":"https://caiji.kczyapi.com","parse_url":"","api":"/api.php/provide/vod/at/xml/","cate_exclude":""},
+{"name":"墨斗📼","api":"https://www.mdzyapi.com","parse_url":"","cate_exclude":""},
+{"name":"黑木耳📼","api":"https:/02.heimuer.xyz","parse_url":"","cate_exclude":""},
+{"name":"华为吧📼","api":"https://hw8.live","parse_url":"","cate_exclude":""},
+{"name":"腐剧📼","api":"http://www.fuju2024.cc:8013/","parse_url":"","cate_exclude":""},
+{"name":"金鹰📼","api":"https://jinyingzy.com","parse_url":"","cate_exclude":""},
+{"name":"OK📼","api":"https://okzyw9.com","parse_url":"","cate_exclude":""},
+{"name":"宝片📼","api":"https://zpsps.com","parse_url":"","cate_exclude":""},
+{"name":"小黄人📼","api":"https://iqyi.xiaohuangrentv.com","parse_url":"","cate_exclude":""},
+{"name":"牛牛📼","api":"https://api.niuniuzy.me","parse_url":"","cate_exclude":""},
+{"name":"丫丫📼","api":"https://cj.yayazy.net","parse_url":"","cate_exclude":""},
+{"name":"影图📼","api":"https://cj.vodimg.top","parse_url":"","cate_exclude":""},
+{"name":"U酷📼","api":"https://api.ukuapi.com","parse_url":"","cate_exclude":""},
+{"name":"索尼📼","api":"https://suoniapi.com","parse_url":"","cate_exclude":""},
+{"name":"快车📼","api":"https://caiji.kczyapi.comfrom/","parse_url":"","cate_exclude":""},
+{"name":"闪电📼","api":"http://sdzyapi.com","parse_url":"","cate_exclude":""},
+{"name":"樱花📼","api":"https://m3u8.apiyhzy.com","parse_url":"","cate_exclude":""},
+{"name":"卧龙📼","api":"https://collect.wolongzyw.com","parse_url":"","cate_exclude":""},
+{"name":"飘花📼","api":"http://www.ahjiuman.comat","parse_url":"","cate_exclude":""},
+{"name":"无尽📼","api":"https://api.wujinapi.com","parse_url":"","cate_exclude":""},
+{"name":"速博📼","api":"https://subocaiji.com","parse_url":"","cate_exclude":""},
+{"name":"魔都📼","api":"https://caiji.moduapi.cc","parse_url":"","cate_exclude":""},
+{"name":"最大📼","api":"http://zuidazy.me","parse_url":"","cate_exclude":""},
 
 
 
@@ -64,7 +85,6 @@
 {"name":"📼狼友会🔞","url":"https://api.lyhapi.com/","parse_url":"","api":"/api.php/provide/vod/at/xml/","cate_exclude":""},
 
 
-{"name":"📼paoyun","url":"https://api.paoyun.eu.org/2253-2.php","parse_url":"","api":"/api.php/provide/vod/at/xml/","cate_exclude":""},
 
 
 

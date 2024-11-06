@@ -66,6 +66,50 @@
 {"key":"meow-free","name":"Free┃🏁","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"click":"document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();","jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 {"key":"meow-qyys","name":"奇优┃🏁","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
 
+{"key":"xiaosa小苹果","name":"小苹果｜影视🏁","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa1905","name":"1905｜影视🏁","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa无忧短剧","name":"无忧｜短剧🏁","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa在线短剧","name":"在线｜短剧🏁","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa星芽短剧","name":"星芽｜短剧🏁","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa韩小圈","name":"韩小圈｜APP🏁","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa南瓜影视","name":"南瓜｜APP🏁","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa天天影视","name":"天天｜APP🏁","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa热播影视","name":"热播｜APP🏁","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa追剧影视","name":"追剧｜APP🏁","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa洽洽影视","name":"洽洽｜APP🏁","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa忍者影视","name":"忍者｜APP🏁","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa凡人影视","name":"凡人｜APP🏁","type":3,"api":"csp_AppFr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa厂长资源","name":"厂长｜资源🏁","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa低端影视","name":"低端｜影视🏁","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa快看影视","name":"快看｜影视🏁","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa农民影视","name":"农民｜影视🏁","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa饺子影视","name":"饺子｜影视🏁","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa全网影视","name":"全网｜影视🏁","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://888.qkw2.cc","jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa看客影视","name":"看客｜影视🏁","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kmeiju.com","jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa瓜子影视","name":"瓜子｜影视🏁","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa疯狗影视","name":"疯狗｜影视🏁","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa比特影视","name":"比特｜影视🏁","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosaFreeOK","name":"️️Free｜影视🏁","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol","jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa奇优影视","name":"奇优｜影视🏁","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa骚火影视","name":"骚火｜影视🏁","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa金牌影视","name":"金牌｜影视🏁","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa哔嘀影视","name":"哔嘀｜影视🏁","type":3,"api":"csp_WebYJ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa铁剧影视","name":"铁剧｜影视🏁","type":3,"api":"csp_WebBr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa真心影视","name":"真心｜影视🏁","type":3,"api":"csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa耐看影视","name":"耐看｜影视🏁","type":3,"api":"csp_WebNK","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa视频库","name":"视频库｜影视🏁","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc","jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa素白白","name":"素白白｜影视🏁","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa机器人","name":"机器人｜影视🏁","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa南瓜弹幕","name":"南瓜｜弹幕🏁","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa厂长弹幕","name":"厂长｜弹幕🏁","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa天天弹幕","name":"天天｜弹幕🏁","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa热播弹幕","name":"热播｜弹幕🏁","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa糯米弹幕","name":"糯米｜弹幕🏁","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa文才弹幕","name":"文才｜弹幕🏁","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa美剧迷","name":"美剧迷｜磁力🏁","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa迅雷吧","name":"迅雷吧｜磁力🏁","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa酷吧电影","name":"酷吧电影｜磁力🏁","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
+{"key":"xiaosa美剧天堂","name":"美剧天堂｜磁力🏁","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"./xiaosa2411.jar;md5;D839FFD84AEB805A91A7DB5264E574A8"},
 
 {"key":"XBPQ-MFKYSqzy998","name":"🇹影视2K🍁","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./JARXYQAL.jar;md5;8B30CFF70C95C15E56273B5742DF52A0","ext":{"站名":"免费看影视","作者":"yydf","主页url":"https://qzy998-1.ysgq.xyz","地区":"地区：&&</p","年代":"年代：&&</p","语言":"语言：&&</p","类型":"类型：&&</p","导演":"导演：&&</p","主演":"演员：&&</p","简介":"资源免费，广告勿信！”+<div class=\"desc_txt cf ec-palytcji cor3\">&&</div>","搜索url":"/index.php/vod/search.html?wd={wd}","数组":"<div class=\"pack-packcover returl list-top-b\">&&</div","链接":"href=\"&&\"","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"<span class=\"pack-prb hidden\">&&</span>","线路数组":"<a class=\"channelname swiper-slide&&</a>","线路名称":"</i>&nbsp;&&</span>","播放数组":"<ul class=\"content_playlist cf\">&&</ul>","播放列表":">&&</a","分类url":"https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"}},
 
@@ -252,9 +296,10 @@
   "lives":[
   
   
-{"name":"🟢Gather🏳️‍🌈","type":0,"pass":true,"boot":true,"url":"https://tv.iill.top/m3u/Gather","playerType":1,"timeout":10},
+
+{"name":"🟢Gather🏳️‍🌈","type":0,"boot":true,"pass":true,"url":"https://tv.iill.top/m3u/Gather","playerType":1,"timeout":10,"epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
   
-  
+  {"name":"🟢iill.Live","type":0,"boot":false,"pass":true,"url":"https://tv.iill.top/m3u/Live","playerType":1,"timeout":10,"epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"🟢fanmingming-ipv6","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
 {"name":"📺YanG-1989 Gather","type":0,"boot":true,"pass":true,"url":"https://m3u.ibert.me/txt/y_g.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
@@ -336,6 +381,12 @@
 {"name":"📺港澳台终极版","type":0,"boot":true,"pass":true,"url":"https://d.kstore.space/download/8209/港澳台终极版.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"🟢4GTV","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://www.mytvsuper.us.kg/4gtv.m3u"},
+
+{"name":"🟢iill.MyTV","type":0,"boot":false,"pass":true,"url":"https://tv.iill.top/m3u/MyTV","playerType":1,"timeout":10,"epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+{"name":"🟢iill.Live","type":0,"boot":false,"pass":true,"url":"https://tv.iill.top/m3u/Live","playerType":1,"timeout":10,"epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+{"name":"🟢dtvbox","type":0,"boot":false,"pass":true,"url":"https://dtvbox.icu/miptv/live/vh.m3u","playerType":1,"timeout":10,"epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 
