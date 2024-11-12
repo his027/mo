@@ -28,11 +28,14 @@
 {"name":"CGTN العربية","groupName":"央视","urls":["https://www.yangshipin.cn/tv/home?pid=600084782"]},
 {"name":"CGTN Русский","groupName":"央视","urls":["https://www.yangshipin.cn/tv/home?pid=600084758"]},
 {"name":"CGTN Documentary","groupName":"央视","urls":["https://www.yangshipin.cn/tv/home?pid=600084781"]},
-{"name":"北京卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002309"]},
-{"name":"江苏卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002521"]},
-{"name":"东方卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002483"]},
+
+
 {"name":"浙江卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002520"]},
 {"name":"湖南卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002475"]},
+{"name":"辽宁卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002505"]},
+{"name":"江苏卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002521","http://live.jstv.com/?id=1"]},
+{"name":"北京卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002309"]},
+{"name":"东方卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002483"]},
 {"name":"湖北卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002508"]},
 {"name":"广东卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002485"]},
 {"name":"广西卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002509"]},
@@ -45,7 +48,6 @@
 {"name":"东南卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002484"]},
 {"name":"贵州卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002490"]},
 {"name":"江西卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002503"]},
-{"name":"辽宁卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002505"]},
 {"name":"安徽卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002532"]},
 {"name":"河北卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002493"]},
 {"name":"山东卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002513"]},
@@ -53,34 +55,565 @@
 {"name":"新疆卫视","groupName":"卫视","urls":["https://www.xjtvs.com.cn/column/tv/434?channelId=1"]},
 
 
-{"name":"湖北综合","groupName":"测试💧","urls":["https://news.hbtv.com.cn/app/tv/433"]},
-{"name":"湖北经视","groupName":"测试💧","urls":["https://news.hbtv.com.cn/app/tv/432"]},
-{"name":"赤壁电视台","groupName":"测试💧","urls":["http://m-chibi.cjyun.org/p/117220.html"]},
-{"name":"赤壁电视台2","groupName":"测试💧","urls":["https://m-chibi.cjyun.org/dsgb/index.html"]},
-{"name":"楚天交通广播927","groupName":"测试💧","urls":["https://news.hbtv.com.cn/app/streamradio/193"]},
-
-{"name":"赤壁人民广播电台","groupName":"测试💧","urls":["http://m-chibi.cjyun.org/p/40969.html"]},
-{"name":"龙游电视","groupName":"测试💧","urls":["https://h5.cztv.com/longyou/h5/wap"]},
-
-{"name":"虎牙-周星星","groupName":"测试💧","urls":["https://m.huya.com/11342412"]},
-{"name":"斗鱼4K","groupName":"测试💧","urls":["https://m.douyu.com/9249162"]},
-{"name":"Japan HDV","groupName":"测试💧","urls":["http://zqjy.info/t/NjU3NDAz?channel=Japan HDV"]},
+{"name":"湖北综合","groupName":"DIY测试💧","urls":["https://news.hbtv.com.cn/app/tv/433"]},
+{"name":"湖北经视","groupName":"DIY测试💧","urls":["https://news.hbtv.com.cn/app/tv/432"]},
+{"name":"赤壁电视台","groupName":"DIY测试💧","urls":["http://m-chibi.cjyun.org/p/117220.html?from=singlemessag"]},
+{"name":"赤壁电视台2","groupName":"DIY测试💧","urls":["https://m-chibi.cjyun.org/dsgb/index.html"]},
+{"name":"楚天交通广播927","groupName":"DIY测试💧","urls":["https://news.hbtv.com.cn/app/streamradio/193"]},
+{"name":"赤壁人民广播电台","groupName":"DIY测试💧","urls":["http://m-chibi.cjyun.org/p/40969.html"]},
+{"name":"龙游电视","groupName":"DIY测试💧","urls":["https://www.lyrt.com.cn/202722/"]},
 
 
-{"name":"NATURE 4Kᴴᴰ","groupName":"测试💧","urls":["http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8"]},
+{"name":"虎牙-周星星","groupName":"DIY测试💧","urls":["https://m.huya.com/11342412"]},
+{"name":"虎牙-周星星2","groupName":"DIY测试💧","urls":["https://liveshare.huya.com/iframe/11342412"]},
 
-{"name":"CCTV6","groupName":"测试💧","urls":["https://www.1905.com/cctv6/live/?index"]},
 
-{"name":"江苏卫视","groupName":"测试💧","urls":["http://live.jstv.com/?id=1"]},
+{"name":"斗鱼港剧间","groupName":"DIY测试💧","urls":["https://m.douyu.com/4549169"]},
+{"name":"斗鱼港剧间2","groupName":"DIY测试💧","urls":["https://www.douyu.com/topic/HPLLDQ_zbj?rid=4549169"]},
+
+{"groupName":"DIY测试💧","name":"💠凤凰资讯","urls":["https://m.kankanzhibo.com/gangaotai/fenghuangweishizixuntai.html"]},
+{"groupName":"DIY测试💧","name":"💠资讯伴音","urls":["https://zuiai.tv/tv/Phoenix_Infonews_Channel.html"]},
+
+
+
+{"name":"Japan HDV","groupName":"DIY测试💧","urls":["http://zqjy.info/t/NjU3NDAz?channel=Japan HDV"]},
+
+
+{"name":"NATURE 4Kᴴᴰ","groupName":"DIY测试💧","urls":["http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8"]},
+{"name":"LOVE NATURE 4Kᴴᴰ","groupName":"DIY测试💧","urls":["https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+"]},
+
+
+
+{"name":"CCTV6","groupName":"DIY测试💧","urls":["https://www.1905.com/cctv6/live/?index"]},
+
+
+{"name":"广东珠江","groupName":"DIY测试💧","urls":["https://www.gdtv.cn/tvChannelDetail/44"]},
+
+{"name":"RTHK33频道","groupName":"DIY测试💧","urls":["https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8",https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8"]},
+{"name":"RTHK34频道","groupName":"DIY测试💧","urls":["https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8","https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8"]},
+{"name":"RTHK35频道","groupName":"DIY测试💧","urls":["https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8","https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8"]},
+
+
+
+
+
+
+
+{"groupName":"💠虎牙生活","name":"国云展","urls":["https://m.huya.com/19743397"]},
+
+{"groupName":"💠虎牙生活","name":"生活技巧","urls":["https://m.huya.com/20985833"]},
+
+{"groupName":"💠虎牙生活","name":"中国推介","urls":["https://m.huya.com/18056599"]},
+
+{"groupName":"💠虎牙生活","name":"辉煌100周年","urls":["https://m.huya.com/19743447"]},
+
+{"groupName":"💠虎牙生活","name":"广州互联网法院","urls":["https://m.huya.com/21866414"]},
+
+{"groupName":"💠虎牙生活","name":"我是一颗小虎牙1106","urls":["https://m.huya.com/27949455"]},
+
+{"groupName":"💠虎牙生活","name":"我是一颗小虎牙","urls":["https://m.huya.com/25054342"]},
+
+{"groupName":"💠虎牙生活","name":"我是一颗小虎牙1108","urls":["https://m.huya.com/27949453"]},
+
+{"groupName":"💠虎牙生活","name":"航拍中国第三季","urls":["https://m.huya.com/22414123"]},
+
+{"groupName":"💠虎牙生活","name":"番禺公安反诈宣传","urls":["https://m.huya.com/18516633"]},
+
+{"groupName":"💠虎牙生活","name":"虎牙消防知识科普","urls":["https://m.huya.com/19743472"]},
+
+{"groupName":"💠虎牙生活","name":"原始技术","urls":["https://m.huya.com/20985807"]},
+
+{"groupName":"💠虎牙","name":"虎牙-周星星","urls":["https://m.huya.com/11342412"]},
+
+{"groupName":"💠虎牙","name":"虎牙-釜山行不行","urls":["https://m.huya.com/18700853"]},
+
+{"groupName":"💠虎牙","name":"虎牙-英叔护体","urls":["https://m.huya.com/11342421"]},
+
+{"groupName":"💠虎牙","name":"虎牙-陈翔六点半","urls":["https://m.huya.com/cxldb"]},
+
+{"groupName":"💠虎牙","name":"虎牙-猛鬼僵尸片","urls":["https://m.huya.com/25129377"]},
+
+{"groupName":"💠虎牙","name":"虎牙-胡八一","urls":["https://m.huya.com/11352871"]},
+
+{"groupName":"💠虎牙","name":"周星驰[1]","urls":["https://m.huya.com/11342412"]},
+
+{"groupName":"💠虎牙","name":"林正英[4]","urls":["https://m.huya.com/11342421"]},
+
+{"groupName":"💠虎牙","name":"港台电影[5]","urls":["https://m.huya.com/880261"]},
+
+{"groupName":"💠虎牙","name":"欧美娱乐[6]","urls":["https://m.huya.com/21059574"]},
+
+{"groupName":"💠虎牙","name":"铁齿铜牙纪晓岚[8]","urls":["https://m.huya.com/11342396"]},
+
+{"groupName":"💠虎牙","name":"沈腾[9]","urls":["https://m.huya.com/11601968"]},
+
+{"groupName":"💠虎牙","name":"科幻五分钟[10]","urls":["https://m.huya.com/15152155"]},
+
+{"groupName":"💠虎牙","name":"新三国[11]","urls":["https://m.huya.com/11352944"]},
+
+{"groupName":"💠虎牙","name":"金庸经典剧[12]","urls":["https://m.huya.com/11602082"]},
+
+{"groupName":"💠虎牙","name":"徐克[13]","urls":["https://m.huya.com/11352909"]},
+
+{"groupName":"💠虎牙","name":"极限挑战[14]","urls":["https://m.huya.com/11352914"]},
+
+{"groupName":"💠虎牙","name":"庆余年[15]","urls":["https://m.huya.com/11352960"]},
+
+{"groupName":"💠虎牙","name":"陈翔六点半[16]","urls":["https://m.huya.com/11274154"]},
+
+{"groupName":"💠虎牙","name":"欧美电影5分钟[18]","urls":["https://m.huya.com/16028551"]},
+
+{"groupName":"💠虎牙","name":"成龙[20]","urls":["https://m.huya.com/11342386"]},
+
+{"groupName":"💠虎牙","name":"地下交通站[21]","urls":["https://m.huya.com/11342433"]},
+
+{"groupName":"💠虎牙","name":"爱情公寓[23]","urls":["https://m.huya.com/11336726"]},
+
+{"groupName":"💠虎牙","name":"电影[24]","urls":["https://m.huya.com/618917"]},
+
+{"groupName":"💠虎牙","name":"倚天屠龙记[25]","urls":["https://m.huya.com/11342403"]},
+
+{"groupName":"💠虎牙","name":"龙珠[27]","urls":["https://m.huya.com/18632116"]},
+
+{"groupName":"💠虎牙","name":"让子弹飞[28]","urls":["https://m.huya.com/11259843"]},
+
+{"groupName":"💠虎牙","name":"甄子丹[31]","urls":["https://m.huya.com/11352935"]},
+
+{"groupName":"💠虎牙","name":"家有儿女[32]","urls":["https://m.huya.com/11352872"]},
+
+{"groupName":"💠虎牙","name":"路飞[34]","urls":["https://m.huya.com/16913382"]},
+
+{"groupName":"💠虎牙","name":"雍正王朝[36]","urls":["https://m.huya.com/11342439"]},
+
+{"groupName":"💠虎牙","name":"神探狄仁杰[39]","urls":["https://m.huya.com/11352958"]},
+
+{"groupName":"💠虎牙","name":"恐怖电影找力哥[41]","urls":["https://m.huya.com/23419131"]},
+
+{"groupName":"💠虎牙","name":"秀cai遇着兵[42]","urls":["https://m.huya.com/11352871"]},
+
+{"groupName":"💠虎牙","name":"新水浒[44]","urls":["https://m.huya.com/11342384"]},
+
+{"groupName":"💠虎牙","name":"士兵突击[45]","urls":["https://m.huya.com/11342430"]},
+
+{"groupName":"💠虎牙","name":"龙门镖局[48]","urls":["https://m.huya.com/11352874"]},
+
+{"groupName":"💠虎牙","name":"刘德华[49]","urls":["https://m.huya.com/11342424"]},
+
+{"groupName":"💠虎牙","name":"官场大佬再创业[54]","urls":["https://m.huya.com/11602086"]},
+
+{"groupName":"💠虎牙","name":"网球王子[55]","urls":["https://m.huya.com/11352882"]},
+
+{"groupName":"💠虎牙","name":"康熙王朝[56]","urls":["https://m.huya.com/11352940"]},
+
+{"groupName":"💠虎牙","name":"康熙微服私访[58]","urls":["https://m.huya.com/11342418"]},
+
+{"groupName":"💠虎牙","name":"极品新娘[60]","urls":["https://m.huya.com/11342426"]},
+
+{"groupName":"💠虎牙","name":"三国演义[63]","urls":["https://m.huya.com/11602081"]},
+
+{"groupName":"💠虎牙","name":"止戈电影[64]","urls":["https://m.huya.com/19863777"]},
+
+{"groupName":"💠虎牙","name":"李连杰[65]","urls":["https://m.huya.com/11342390"]},
+
+{"groupName":"💠虎牙","name":"欧美电影[67]","urls":["https://m.huya.com/11352880"]},
+
+{"groupName":"💠虎牙","name":"科幻电影[68]","urls":["https://m.huya.com/11602034"]},
+
+{"groupName":"💠虎牙","name":"杰森·斯坦森[69]","urls":["https://m.huya.com/21059588"]},
+
+{"groupName":"💠虎牙","name":"父母爱情[71]","urls":["https://m.huya.com/11602071"]},
+
+{"groupName":"💠虎牙","name":"红海行动[72]","urls":["https://m.huya.com/11601986"]},
+
+{"groupName":"💠虎牙","name":"生活大爆炸[73]","urls":["https://m.huya.com/11342417"]},
+
+{"groupName":"💠虎牙","name":"五福星[77]","urls":["https://m.huya.com/11282233"]},
+
+{"groupName":"💠虎牙","name":"麻雀[79]","urls":["https://m.huya.com/11352881"]},
+
+{"groupName":"💠虎牙","name":"封神演义[80]","urls":["https://m.huya.com/19524135"]},
+
+{"groupName":"💠虎牙","name":"小品[81]","urls":["https://m.huya.com/11352938"]},
+
+{"groupName":"💠虎牙","name":"周润发[83]","urls":["https://m.huya.com/11342387"]},
+
+{"groupName":"💠虎牙","name":"搞笑的一家人[84]","urls":["https://m.huya.com/11342402"]},
+
+{"groupName":"💠虎牙","name":"经典高智商犯罪片[86]","urls":["https://m.huya.com/11352962"]},
+
+{"groupName":"💠虎牙","name":"倩女幽魂[87]","urls":["https://m.huya.com/11601970"]},
+
+{"groupName":"💠虎牙","name":"Yes小哥的美食[88]","urls":["https://m.huya.com/14363949"]},
+
+{"groupName":"💠虎牙","name":"朱雀青龙[89]","urls":["https://m.huya.com/11352905"]},
+
+{"groupName":"💠虎牙","name":"杨幂扮演王昭君出塞[90]","urls":["https://m.huya.com/11352910"]},
+
+{"groupName":"💠虎牙","name":"芈月传[91]","urls":["https://m.huya.com/11352975"]},
+
+{"groupName":"💠虎牙","name":"神貂侠侣[92]","urls":["https://m.huya.com/11352964"]},
+
+{"groupName":"💠虎牙","name":"林正英[93]","urls":["https://m.huya.com/18441722"]},
+
+{"groupName":"💠虎牙","name":"港产搞笑[94]","urls":["https://m.huya.com/11601960"]},
+
+{"groupName":"💠虎牙","name":"我de团长我的团[95]","urls":["https://m.huya.com/11342416"]},
+
+{"groupName":"💠虎牙","name":"天龙八部[96]","urls":["https://m.huya.com/11352912"]},
+
+{"groupName":"💠虎牙","name":"小鲤鱼[97]","urls":["https://m.huya.com/11601961"]},
+
+{"groupName":"💠虎牙","name":"中华小当家[98]","urls":["https://m.huya.com/11342413"]},
+
+{"groupName":"💠虎牙","name":"7分钟看完科幻[99]","urls":["https://m.huya.com/17105786"]},
+
+{"groupName":"💠虎牙","name":"警匪[100]","urls":["https://m.huya.com/11352886"]},
+
+{"groupName":"💠虎牙","name":"虎牙[102]","urls":["https://m.huya.com/21059565"]},
+
+{"groupName":"💠虎牙","name":"权力的游戏[103]","urls":["https://m.huya.com/17943364"]},
+
+{"groupName":"💠虎牙","name":"港式警匪片[104]","urls":["https://m.huya.com/16424416"]},
+
+{"groupName":"💠虎牙","name":"百鸟朝凤[105]","urls":["https://m.huya.com/15894162"]},
+
+{"groupName":"💠虎牙","name":"猫和老鼠[106]","urls":["https://m.huya.com/11352879"]},
+
+{"groupName":"💠虎牙","name":"新乌龙院之笑闹江湖[109]","urls":["https://m.huya.com/15981239"]},
+
+{"groupName":"💠虎牙","name":"旋风球技[110]","urls":["https://m.huya.com/11342400"]},
+
+{"groupName":"💠虎牙","name":"海贼王15[111]","urls":["https://m.huya.com/17941367"]},
+
+{"groupName":"💠虎牙","name":"RM 刘在石李光洙跑男[114]","urls":["https://m.huya.com/11336725"]},
+
+{"groupName":"💠虎牙","name":"吐槽大会[115]","urls":["https://m.huya.com/11342422"]},
+
+{"groupName":"💠虎牙","name":"大秦帝国[116]","urls":["https://m.huya.com/11602074"]},
+
+{"groupName":"💠虎牙","name":"黑帮斗争[117]","urls":["https://m.huya.com/11342419"]},
+
+{"groupName":"💠虎牙","name":"周星驰[119]","urls":["https://m.huya.com/21136378"]},
+
+{"groupName":"💠虎牙","name":"笑傲帮[120]","urls":["https://m.huya.com/11352908"]},
+
+{"groupName":"💠虎牙","name":"火影忍者[121]","urls":["https://m.huya.com/20236200"]},
+
+{"groupName":"💠虎牙","name":"葛二蛋[122]","urls":["https://m.huya.com/11602072"]},
+
+{"groupName":"💠虎牙","name":"军事武器分析[123]","urls":["https://m.huya.com/15824466"]},
+
+{"groupName":"💠虎牙","name":"悬疑推理烧脑破案[126]","urls":["https://m.huya.com/17445539"]},
+
+{"groupName":"💠虎牙","name":"神医喜来乐[127]","urls":["https://m.huya.com/11601978"]},
+
+{"groupName":"💠虎牙","name":"小川电影解说[128]","urls":["https://m.huya.com/15870999"]},
+
+{"groupName":"💠虎牙","name":"好莱坞[130]","urls":["https://m.huya.com/21059587"]},
+
+{"groupName":"💠虎牙","name":"医馆笑传[131]","urls":["https://m.huya.com/11352891"]},
+
+{"groupName":"💠虎牙","name":"经典好片[132]","urls":["https://m.huya.com/11342427"]},
+
+{"groupName":"💠虎牙","name":"史诗级战zheng电影[133]","urls":["https://m.huya.com/21059556"]},
+
+{"groupName":"💠虎牙","name":"开心快乐就完事了[134]","urls":["https://m.huya.com/11342388"]},
+
+{"groupName":"💠虎牙","name":"黄金配角廖启智[135]","urls":["https://m.huya.com/21059562"]},
+
+{"groupName":"💠虎牙","name":"中国功夫[136]","urls":["https://m.huya.com/11352941"]},
+
+{"groupName":"💠虎牙","name":"Han国高分动作片[137]","urls":["https://m.huya.com/11352884"]},
+
+{"groupName":"💠虎牙","name":"勇敢的心[138]","urls":["https://m.huya.com/11602037"]},
+
+{"groupName":"💠虎牙","name":"经典好剧[139]","urls":["https://m.huya.com/11602085"]},
+
+{"groupName":"💠虎牙","name":"精彩不断[140]","urls":["https://m.huya.com/24396428"]},
+
+{"groupName":"💠虎牙","name":"高分电影[141]","urls":["https://m.huya.com/16615910"]},
+
+{"groupName":"💠虎牙","name":"隋唐英雄[144]","urls":["https://m.huya.com/11352899"]},
+
+{"groupName":"💠虎牙","name":"美食纪录片[148]","urls":["https://m.huya.com/11352955"]},
+
+{"groupName":"💠虎牙","name":"张显宗[149]","urls":["https://m.huya.com/16865726"]},
+
+{"groupName":"💠虎牙","name":"一口毒奶[150]","urls":["https://m.huya.com/16144261"]},
+
+{"groupName":"💠虎牙","name":"邓超[151]","urls":["https://m.huya.com/11336592"]},
+
+{"groupName":"💠虎牙","name":"经典影片[152]","urls":["https://m.huya.com/15267139"]},
+
+{"groupName":"💠虎牙","name":"经典喜剧片[154]","urls":["https://m.huya.com/11352894"]},
+
+{"groupName":"💠虎牙","name":"X档案[155]","urls":["https://m.huya.com/20045465"]},
+
+{"groupName":"💠虎牙","name":"大片[156]","urls":["https://m.huya.com/21059585"]},
+
+{"groupName":"💠虎牙","name":"影片欣赏[160]","urls":["https://m.huya.com/20695907"]},
+
+{"groupName":"💠虎牙","name":"徐峥[161]","urls":["https://m.huya.com/11602043"]},
+
+{"groupName":"💠虎牙","name":"电影笔记[162]","urls":["https://m.huya.com/16920222"]},
+
+{"groupName":"💠虎牙","name":"异形世界[165]","urls":["https://m.huya.com/21059577"]},
+
+{"groupName":"💠虎牙","name":"6分钟看惊悚恐怖片[168]","urls":["https://m.huya.com/15494057"]},
+
+{"groupName":"💠虎牙","name":"神hua[169]","urls":["https://m.huya.com/11352913"]},
+
+{"groupName":"💠虎牙","name":"海贼王[173]","urls":["https://m.huya.com/16739452"]},
+
+{"groupName":"💠虎牙","name":"速看[174]","urls":["https://m.huya.com/16868935"]},
+
+{"groupName":"💠虎牙","name":"科幻片[176]","urls":["https://m.huya.com/17904870"]},
+
+{"groupName":"💠虎牙","name":"速看美剧[177]","urls":["https://m.huya.com/17204307"]},
+
+{"groupName":"💠虎牙","name":"林正英[178]","urls":["https://m.huya.com/21388479"]},
+
+{"groupName":"💠虎牙","name":"笑傲江湖 喜剧脱口秀[179]","urls":["https://m.huya.com/11352937"]},
+
+{"groupName":"💠虎牙","name":"大侦探皮卡丘[181]","urls":["https://m.huya.com/17341907"]},
+
+{"groupName":"💠虎牙","name":"沫漾电影[182]","urls":["https://m.huya.com/15556391"]},
+
+{"groupName":"💠虎牙","name":"今晚80后脱口秀[183]","urls":["https://m.huya.com/11352961"]},
+
+{"groupName":"💠虎牙","name":"奇幻片[184]","urls":["https://m.huya.com/16149609"]},
+
+{"groupName":"💠虎牙","name":"进来看看电影[186]","urls":["https://m.huya.com/24376361"]},
+
+{"groupName":"💠虎牙","name":"骆驼祥子[187]","urls":["https://m.huya.com/19450129"]},
+
+{"groupName":"💠虎牙","name":"怀玉格格[191]","urls":["https://m.huya.com/11352887"]},
+
+{"groupName":"💠虎牙","name":"中国最后一个太监[192]","urls":["https://m.huya.com/16604522"]},
+
+{"groupName":"💠虎牙","name":"科幻动作电影[193]","urls":["https://m.huya.com/16914870"]},
+
+{"groupName":"💠虎牙","name":"母亲为爱展开复仇[195]","urls":["https://m.huya.com/16626185"]},
+
+{"groupName":"💠虎牙","name":"电ju惊魂系列[196]","urls":["https://m.huya.com/11352903"]},
+
+{"groupName":"💠虎牙","name":"经典小影院[201]","urls":["https://m.huya.com/23017124"]},
+
+{"groupName":"💠虎牙","name":"娘子陪你看[206]","urls":["https://m.huya.com/18964209"]},
+
+{"groupName":"💠虎牙","name":"捉妖记[207]","urls":["https://m.huya.com/11342414"]},
+
+{"groupName":"💠虎牙","name":"欧美电影[211]","urls":["https://m.huya.com/21059581"]},
+
+{"groupName":"💠虎牙","name":"硬汉的直播间[212]","urls":["https://m.huya.com/24614407"]},
+
+{"groupName":"💠虎牙","name":"天雷滚滚[213]","urls":["https://m.huya.com/11352945"]},
+
+{"groupName":"💠虎牙","name":"港剧经典[215]","urls":["https://m.huya.com/11352965"]},
+
+{"groupName":"💠虎牙","name":"茶啊二中[216]","urls":["https://m.huya.com/11213191"]},
+
+{"groupName":"💠虎牙","name":"喜剧专场[217]","urls":["https://m.huya.com/11602044"]},
+
+{"groupName":"💠虎牙","name":"浓浓当年情[218]","urls":["https://m.huya.com/11602065"]},
+
+{"groupName":"💠虎牙","name":"搜神传[220]","urls":["https://m.huya.com/11342437"]},
+
+{"groupName":"💠虎牙","name":"情深深雨濛濛[221]","urls":["https://m.huya.com/11352885"]},
+
+{"groupName":"💠虎牙","name":"女神系列[222]","urls":["https://m.huya.com/11336571"]},
+
+{"groupName":"💠虎牙","name":"金庸的武侠世界[223]","urls":["https://m.huya.com/11342435"]},
+
+{"groupName":"💠虎牙","name":"杨门女将电影系列[224]","urls":["https://m.huya.com/11336590"]},
+
+{"groupName":"💠虎牙","name":"穿越千年之恋[225]","urls":["https://m.huya.com/11342398"]},
+
+{"groupName":"💠虎牙","name":"天龙八部[226]","urls":["https://m.huya.com/11602041"]},
+
+{"groupName":"💠虎牙","name":"魔法世界[227]","urls":["https://m.huya.com/21059580"]},
+
+{"groupName":"💠虎牙","name":"文成公主进藏[228]","urls":["https://m.huya.com/11352974"]},
+
+{"groupName":"💠虎牙","name":"舒克和贝塔[229]","urls":["https://m.huya.com/11352949"]},
+
+{"groupName":"💠虎牙","name":"镖行天下[230]","urls":["https://m.huya.com/11352969"]},
+
+{"groupName":"💠虎牙","name":"许氏三杰[232]","urls":["https://m.huya.com/11602033"]},
+
+{"groupName":"💠虎牙","name":"精忠岳飞南征北战[234]","urls":["https://m.huya.com/11336578"]},
+
+{"groupName":"💠虎牙","name":"张卫健[235]","urls":["https://m.huya.com/11342423"]},
+
+{"groupName":"💠虎牙","name":"中国西部刑侦大案纪实[236]","urls":["https://m.huya.com/11601972"]},
+
+{"groupName":"💠虎牙","name":"搞笑僵尸片[238]","urls":["https://m.huya.com/11352963"]},
+
+{"groupName":"💠虎牙","name":"国产青春爱情[239]","urls":["https://m.huya.com/11602075"]},
+
+{"groupName":"💠虎牙","name":"孙悟空[240]","urls":["https://m.huya.com/11342395"]},
+
+{"groupName":"💠虎牙","name":"太空混战[241]","urls":["https://m.huya.com/21059579"]},
+
+{"groupName":"💠虎牙","name":"三国鼎立[242]","urls":["https://m.huya.com/11602077"]},
+
+{"groupName":"💠虎牙","name":"da宋提刑官[243]","urls":["https://m.huya.com/11279251"]},
+
+{"groupName":"💠虎牙","name":"赘婿[244]","urls":["https://m.huya.com/21059564"]},
+
+{"groupName":"💠虎牙","name":"歪果仁的动作片子[246]","urls":["https://m.huya.com/21059552"]},
+
+{"groupName":"💠虎牙","name":"冯小刚合集[247]","urls":["https://m.huya.com/11352906"]},
+
+{"groupName":"💠虎牙","name":"命案十三宗[248]","urls":["https://m.huya.com/11601981"]},
+
+{"groupName":"💠虎牙","name":"令狐冲&东方不败[249]","urls":["https://m.huya.com/11601962"]},
+
+{"groupName":"💠虎牙","name":"四驱兄弟[250]","urls":["https://m.huya.com/11352922"]},
+
+{"groupName":"💠虎牙","name":"最佳搭档[251]","urls":["https://m.huya.com/11342397"]},
+
+{"groupName":"💠虎牙","name":"利箭特战队出击！[252]","urls":["https://m.huya.com/11352973"]},
+
+{"groupName":"💠虎牙","name":"关灯看大片[254]","urls":["https://m.huya.com/16135863"]},
+
+{"groupName":"💠虎牙","name":"婆媳[255]","urls":["https://m.huya.com/21059568"]},
+
+{"groupName":"💠虎牙","name":"黄渤[256]","urls":["https://m.huya.com/11352876"]},
+
+{"groupName":"💠虎牙","name":"虎妈猫爸[257]","urls":["https://m.huya.com/11601964"]},
+
+{"groupName":"💠虎牙","name":"慈善超人合集[258]","urls":["https://m.huya.com/10871113"]},
+
+{"groupName":"💠虎牙","name":"喜剧合家欢[259]","urls":["https://m.huya.com/11352877"]},
+
+{"groupName":"💠虎牙","name":"谍战神剧[262]","urls":["https://m.huya.com/11342436"]},
+
+{"groupName":"💠虎牙","name":"甄嬛传[265]","urls":["https://m.huya.com/11601971"]},
+
+{"groupName":"💠虎牙","name":"悬疑片[266]","urls":["https://m.huya.com/11602088"]},
+
+{"groupName":"💠虎牙","name":"我是大哥大[267]","urls":["https://m.huya.com/23652317"]},
+
+{"groupName":"💠虎牙","name":"大宅men[270]","urls":["https://m.huya.com/11352936"]},
+
+{"groupName":"💠虎牙","name":"看救援电影[272]","urls":["https://m.huya.com/21059586"]},
+
+{"groupName":"💠虎牙","name":"贺岁合家欢剧场[273]","urls":["https://m.huya.com/11602067"]},
+
+{"groupName":"💠虎牙","name":"篮qiu火[274]","urls":["https://m.huya.com/21059558"]},
+
+{"groupName":"💠虎牙","name":"金庸作品电影[278]","urls":["https://m.huya.com/11352897"]},
+
+{"groupName":"💠斗鱼","name":"斗鱼4K","urls":["https://m.douyu.com/9249162"]},
+
+{"groupName":"💠斗鱼","name":"斗鱼-百科片场","urls":["https://m.douyu.com/11529003"]},
+
+{"groupName":"💠斗鱼","name":"斗鱼-虫哥说电影","urls":["https://m.douyu.com/8915074"]},
+
+{"groupName":"💠斗鱼","name":"斗鱼-电影最TOP","urls":["https://m.douyu.com/2164691"]},
+
+{"groupName":"💠斗鱼","name":"斗鱼-铁血影视汇","urls":["https://m.douyu.com/9649701"]},
+
+{"groupName":"💠斗鱼","name":"斗鱼电视剧HD4","urls":["https://m.douyu.com/6566658"]},
+
+{"groupName":"💠斗鱼","name":"斗鱼电视剧HD3","urls":["https://m.douyu.com/6706214"]},
+
+{"groupName":"💠斗鱼","name":"斗鱼电视剧HD2","urls":["https://m.douyu.com/7489563"]},
+
+{"groupName":"💠斗鱼","name":"粤语综艺","urls":["https://m.douyu.com/7919720"]},
+
+{"groupName":"💠斗鱼","name":"华语经典","urls":["https://m.douyu.com/434971"]},
+
+{"groupName":"💠斗鱼","name":"吃米滴虫","urls":["https://m.douyu.com/315457"]},
+
+{"groupName":"💠斗鱼","name":"神乐影片1","urls":["https://m.douyu.com/122402"]},
+
+{"groupName":"💠斗鱼","name":"神乐影片2","urls":["https://m.douyu.com/85894"]},
+
+{"groupName":"💠斗鱼","name":"特辑影院","urls":["https://m.douyu.com/3637778"]},
+
+{"groupName":"💠斗鱼","name":"贝爷MAX厅","urls":["https://m.douyu.com/4332"]},
+
+{"groupName":"💠斗鱼","name":"漫威影片","urls":["https://m.douyu.com/6140589"]},
+
+{"groupName":"💠斗鱼","name":"周星驰电影","urls":["https://m.douyu.com/3990812"]},
+
+{"groupName":"💠斗鱼","name":"刘德华电影1","urls":["https://m.douyu.com/2516864"]},
+
+{"groupName":"💠斗鱼","name":"刘德华电影2","urls":["https://m.douyu.com/8985415"]},
+
+{"groupName":"💠斗鱼","name":"喜剧经典","urls":["https://m.douyu.com/9650887"]},
+
+{"groupName":"💠斗鱼","name":"豆瓣高分","urls":["https://m.douyu.com/8770422"]},
+
+{"groupName":"💠斗鱼","name":"林正英电影1","urls":["https://m.douyu.com/218859"]},
+
+{"groupName":"💠斗鱼","name":"林正英电影2","urls":["https://m.douyu.com/7356023"]},
+
+{"groupName":"💠斗鱼","name":"女神金电影","urls":["https://m.douyu.com/747764"]},
+
+{"groupName":"💠斗鱼","name":"贝爷影厅1","urls":["https://m.douyu.com/252802"]},
+
+{"groupName":"💠斗鱼","name":"贝爷影厅2","urls":["https://m.douyu.com/36337"]},
+
+{"groupName":"💠斗鱼","name":"霍格影片","urls":["https://m.douyu.com/8814650"]},
+
+{"groupName":"💠斗鱼","name":"可乐电影","urls":["https://m.douyu.com/20415"]},
+
+{"groupName":"💠斗鱼","name":"冰冰经典电影","urls":["https://m.douyu.com/74374"]},
+
+{"groupName":"💠斗鱼","name":"奶虫恐怖电影","urls":["https://m.douyu.com/263824"]},
+
+{"groupName":"💠斗鱼","name":"奶瓶科幻片","urls":["https://m.douyu.com/6655271"]},
+
+{"groupName":"💠斗鱼","name":"避风港影院","urls":["https://m.douyu.com/9826611"]},
+
+{"groupName":"💠斗鱼","name":"林林影院","urls":["https://m.douyu.com/9652323"]},
+
+{"groupName":"💠斗鱼","name":"漫威电影","urls":["https://m.douyu.com/4282654"]},
+
+{"groupName":"💠斗鱼","name":"恐怖经典","urls":["https://m.douyu.com/1165374"]},
+
+{"groupName":"💠斗鱼","name":"变种人电影","urls":["https://m.douyu.com/9651304"]},
+
+{"groupName":"💠斗鱼","name":"华语电影","urls":["https://m.douyu.com/3928"]},
+
+{"groupName":"💠斗鱼","name":"华语动作电影","urls":["https://m.douyu.com/1504768"]},
+
+{"groupName":"💠斗鱼","name":"怀旧90","urls":["https://m.douyu.com/9275635"]},
+
+{"groupName":"💠斗鱼","name":"国产影片","urls":["https://m.douyu.com/5423"]},
+
+{"groupName":"💠斗鱼","name":"麓山迷踪","urls":["https://m.douyu.com/4505431"]},
+
+{"groupName":"💠斗鱼","name":"高帧影片","urls":["https://m.douyu.com/6763930"]},
+
+{"groupName":"💠斗鱼","name":"米娅电影","urls":["https://m.douyu.com/6537888"]},
+
+{"groupName":"💠斗鱼","name":"小九电影","urls":["https://m.douyu.com/7136517"]},
+
+{"groupName":"💠斗鱼","name":"连续剧1","urls":["https://m.douyu.com/4549169"]},
+
+{"groupName":"💠斗鱼","name":"连续剧2","urls":["https://m.douyu.com/7623292"]},
+
+{"groupName":"💠斗鱼","name":"连续剧3","urls":["https://m.douyu.com/5689514"]},
+
+{"groupName":"💠斗鱼","name":"连续剧4","urls":["https://m.douyu.com/7476264"]},
+
+{"groupName":"💠斗鱼","name":"连续剧5","urls":["https://m.douyu.com/4396972"]},
+
+
+
+
+
 
 
 
 
 {"name":"广东卫视","groupName":"广东","urls":["https://m.gdtv.cn/tvChannelDetail/43"]},
 {"name":"广东珠江","groupName":"广东","urls":["https://m.gdtv.cn/tvChannelDetail/44"]},
-{"name":"广东珠江💧","groupName":"广东","urls":["http://tv.haoqu99.com/3/guangdong/gdzj.html"]},
-
-
 {"name":"广东新闻","groupName":"广东","urls":["https://m.gdtv.cn/tvChannelDetail/45"]},
 {"name":"广东民生","groupName":"广东","urls":["https://m.gdtv.cn/tvChannelDetail/48"]},
 {"name":"广东体育","groupName":"广东","urls":["https://m.gdtv.cn/tvChannelDetail/47"]},
@@ -133,40 +666,40 @@
 {"name":"延边卫视","groupName":"吉林","urls":["https://www.yb983.com/cys/index.html"]},
 {"name":"延边朝鲜语综合频道","groupName":"吉林","urls":["https://www.yb983.com/ybtv1/index.html"]},
 {"name":"延边汉语综合频道","groupName":"吉林","urls":["https://www.yb983.com/ybtv2/index.html"]},
-{"name":"翡翠台","groupName":"香港","urls":["https://www.tiantianzhibo.net/player/index?id=714fQdFOPs7fA2to6CG0UroN9l0YvCP5kVSLYnbvT654w1jlNQ","https://enz.gdplayertv.to/live-tv/tvb-jade/?embed=1"]},
-{"name":"無線新聞","groupName":"香港","urls":["https://www.tiantianzhibo.net/player/index?id=5e2avMI8JXyPe9rVuDSxwiCvsqAqCrPBqPsUSWrXDKN2L9rIzA","https://enz.gdplayertv.to/live-tv/tvb-news/?embed=1"]},
-{"name":"明珠台","groupName":"香港","urls":["https://www.tiantianzhibo.net/player/index?id=910drXCXuvox1KxMaCzEhMltq5JK1qSQy9zm-nkstsFwqLSw7i4","https://idx.gdplayertv.to/live-tv/tvb-pearl/?embed=1"]},
-{"name":"鳳凰衛視資訊台","groupName":"香港","urls":["https://www.fengshows.com/live"]},
-{"name":"香港衛視","groupName":"香港","urls":["http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8","http://www.hkstv.tv/index/live.html"]},
-{"name":"澳視澳門","groupName":"澳門","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=1&type=tv"]},
-{"name":"澳視葡文","groupName":"澳門","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=2&type=tv"]},
-{"name":"澳門資訊","groupName":"澳門","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=5&type=tv"]},
-{"name":"澳門體育","groupName":"澳門","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=6&type=tv"]},
-{"name":"澳門綜藝","groupName":"澳門","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=7&type=tv"]},
-{"name":"澳門MACAU","groupName":"澳門","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv"]},
-{"name":"東森新聞","groupName":"台灣","urls":["https://www.tiantianzhibo.net/player/index?id=d7c9cqojVv8HhOKJ21KwZvsYwApfnEiecpCVhysKZsYsWnGGTw","https://www.4gtv.tv/channel/4gtv-4gtv152?set=4&ch=292"]},
-{"name":"東森財經","groupName":"台灣","urls":["https://www.tiantianzhibo.net/player/index?id=5440lDG41CDeziB7SsRoChqYyIiSs14oznWXOe6Pw3W09l32yA"]},
-{"name":"東森綜合","groupName":"台灣","urls":["https://www.tiantianzhibo.net/player/index?id=f352Z9Iib4gt-4o-2JdjxD-Lcal2DNVSdFv8_KgVIpNEjBnMBA"]},
-{"name":"東森電影","groupName":"台灣","urls":["https://www.tiantianzhibo.net/player/index?id=faffRjOxK2m5W8AzdGxiWAst6NK0Bly9HTgNJP0Ni7KyWlF7tg"]},
-{"name":"東森戲劇","groupName":"台灣","urls":["https://www.tiantianzhibo.net/player/index?id=0ba9U596e_liclHp-sRJyA497-B-o2Ff0ws_6SUz1Yv4ZDBsiQ"]},
-{"name":"東森洋片","groupName":"台灣","urls":["https://www.tiantianzhibo.net/player/index?id=b731J0NuKSooz1MrvfF8lT9CFViu_ykbNOdGI7OkFYK7BbBy3A"]},
-{"name":"東森幼幼","groupName":"台灣","urls":["https://www.tiantianzhibo.net/player/index?id=8d89ITGSf0YWWa2GH1gY2jel3z4ciyTwW2dZKbQq43ZUD73YCg"]},
-{"name":"年代新聞","groupName":"台灣","urls":["https://www.tiantianzhibo.net/player/index?id=0c771kC3czYydY-9dMP-8087HfO99F_8NiDCWRdINHu9FLGGSQ"]},
-{"name":"民視第一台","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1"]},
-{"name":"民視台灣台","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2"]},
-{"name":"民視新聞台","groupName":"台灣","urls":["https://www.4gtv.tv/channel/litv-ftv13?set=4&ch=31"]},
-{"name":"民視綜藝台","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16"]},
-{"name":"民視旅遊台","groupName":"台灣","urls":["https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61"]},
-{"name":"民視影劇台","groupName":"台灣","urls":["https://www.4gtv.tv/channel/litv-ftv09?set=4&ch=24"]},
-{"name":"民視","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3"]},
-{"name":"中視","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4"]},
-{"name":"中視經典台","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-4gtv080?set=4&ch=124"]},
-{"name":"華視","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6"]},
-{"name":"華視新聞","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-live014?set=4&ch=273"]},
-{"name":"大愛電視","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-live007?set=4&ch=209"]},
-{"name":"ARIRANG阿里郎頻道","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-4gtv079?set=4&ch=189"]},
-{"name":"原住民族電視台","groupName":"台灣","urls":["https://www.4gtv.tv/channel/4gtv-live014?set=4&ch=273"]},
-{"name":"新唐人亚太台","groupName":"海外","urls":["https://www.ntdtv.com.tw/"]},
-{"name":"新唐人美东台","groupName":"海外","urls":["https://www.ntdtv.com/"]},
-{"name":"VOA English TV","groupName":"海外","urls":["https://www.voanews.com/live/video/116"]},
-{"name":"VOA LIVE","groupName":"海外","urls":["https://www.voanews.com/live/video/126"]}]
+{"name":"翡翠台","groupName":"香港🌐","urls":["https://www.tiantianzhibo.net/player/index?id=714fQdFOPs7fA2to6CG0UroN9l0YvCP5kVSLYnbvT654w1jlNQ","https://enz.gdplayertv.to/live-tv/tvb-jade/?embed=1"]},
+{"name":"無線新聞","groupName":"香港🌐","urls":["https://www.tiantianzhibo.net/player/index?id=5e2avMI8JXyPe9rVuDSxwiCvsqAqCrPBqPsUSWrXDKN2L9rIzA","https://enz.gdplayertv.to/live-tv/tvb-news/?embed=1"]},
+{"name":"明珠台","groupName":"香港🌐","urls":["https://www.tiantianzhibo.net/player/index?id=910drXCXuvox1KxMaCzEhMltq5JK1qSQy9zm-nkstsFwqLSw7i4","https://idx.gdplayertv.to/live-tv/tvb-pearl/?embed=1"]},
+{"name":"鳳凰衛視資訊台","groupName":"香港🌐","urls":["https://www.fengshows.com/live"]},
+{"name":"香港衛視","groupName":"香港🌐","urls":["http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8","http://www.hkstv.tv/index/live.html"]},
+{"name":"澳視澳門","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=1&type=tv"]},
+{"name":"澳視葡文","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=2&type=tv"]},
+{"name":"澳門資訊","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=5&type=tv"]},
+{"name":"澳門體育","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=6&type=tv"]},
+{"name":"澳門綜藝","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=7&type=tv"]},
+{"name":"澳門MACAU","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv"]},
+{"name":"東森新聞","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=d7c9cqojVv8HhOKJ21KwZvsYwApfnEiecpCVhysKZsYsWnGGTw","https://www.4gtv.tv/channel/4gtv-4gtv152?set=4&ch=292"]},
+{"name":"東森財經","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=5440lDG41CDeziB7SsRoChqYyIiSs14oznWXOe6Pw3W09l32yA"]},
+{"name":"東森綜合","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=f352Z9Iib4gt-4o-2JdjxD-Lcal2DNVSdFv8_KgVIpNEjBnMBA"]},
+{"name":"東森電影","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=faffRjOxK2m5W8AzdGxiWAst6NK0Bly9HTgNJP0Ni7KyWlF7tg"]},
+{"name":"東森戲劇","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=0ba9U596e_liclHp-sRJyA497-B-o2Ff0ws_6SUz1Yv4ZDBsiQ"]},
+{"name":"東森洋片","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=b731J0NuKSooz1MrvfF8lT9CFViu_ykbNOdGI7OkFYK7BbBy3A"]},
+{"name":"東森幼幼","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=8d89ITGSf0YWWa2GH1gY2jel3z4ciyTwW2dZKbQq43ZUD73YCg"]},
+{"name":"年代新聞","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=0c771kC3czYydY-9dMP-8087HfO99F_8NiDCWRdINHu9FLGGSQ"]},
+{"name":"民視第一台","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1"]},
+{"name":"民視台灣台","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2"]},
+{"name":"民視新聞台","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/litv-ftv13?set=4&ch=31"]},
+{"name":"民視綜藝台","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16"]},
+{"name":"民視旅遊台","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61"]},
+{"name":"民視影劇台","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/litv-ftv09?set=4&ch=24"]},
+{"name":"民視","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3"]},
+{"name":"中視","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4"]},
+{"name":"中視經典台","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-4gtv080?set=4&ch=124"]},
+{"name":"華視","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6"]},
+{"name":"華視新聞","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-live014?set=4&ch=273"]},
+{"name":"大愛電視","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-live007?set=4&ch=209"]},
+{"name":"ARIRANG阿里郎頻道","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-4gtv079?set=4&ch=189"]},
+{"name":"原住民族電視台","groupName":"灣灣🌐","urls":["https://www.4gtv.tv/channel/4gtv-live014?set=4&ch=273"]},
+{"name":"新唐人亚太台","groupName":"海外🌐","urls":["https://www.ntdtv.com.tw/"]},
+{"name":"新唐人美东台","groupName":"海外🌐","urls":["https://www.ntdtv.com/"]},
+{"name":"VOA English TV","groupName":"海外🌐","urls":["https://www.voanews.com/live/video/116"]},
+{"name":"VOA LIVE","groupName":"海外🌐","urls":["https://www.voanews.com/live/video/126"]}]
