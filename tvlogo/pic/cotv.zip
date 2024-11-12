@@ -80,8 +80,7 @@
 
 
 {"name":"NATURE 4Kᴴᴰ","groupName":"DIY测试💧","urls":["http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8"]},
-{"name":"LOVE NATURE 4Kᴴᴰ","groupName":"DIY测试💧","urls":["https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-"]},
+{"name":"LOVE NATURE 4Kᴴᴰ","groupName":"DIY测试💧","urls":["https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8"]},
 
 
 
@@ -90,7 +89,7 @@
 
 {"name":"广东珠江","groupName":"DIY测试💧","urls":["https://www.gdtv.cn/tvChannelDetail/44"]},
 
-{"name":"RTHK33频道","groupName":"DIY测试💧","urls":["https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8",https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8"]},
+{"name":"RTHK33频道","groupName":"DIY测试💧","urls":["https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8","https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8"]},
 {"name":"RTHK34频道","groupName":"DIY测试💧","urls":["https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8","https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8"]},
 {"name":"RTHK35频道","groupName":"DIY测试💧","urls":["https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8","https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8"]},
 
