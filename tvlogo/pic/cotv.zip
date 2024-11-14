@@ -410,12 +410,7 @@
 
 
 {"name":"湖北楚天交通广播 FM92.7 ","groupName":"📻国内🎧","urls":["https://worldradiomap.com/cn/play/hb_hubei-chutian","https://m.qingting.fm/channels/1291/"]},
-{"name":"清晨音乐台","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/4915/"]},
-{"name":"AsiaFM 亚洲粤语台","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/15318569"]},
-{"name":"80后音悦台","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/20207761/"]},
-{"name":"动听音乐台","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/5022107/"]},
-{"name":"欧美音乐88.7","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/15318703"]},
-{"name":"国际新闻","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/20500172/"]},{"name":"中国环球资讯广播 ","groupName":"📻国内🎧","urls":["https://worldradiomap.com/cn/play/cri_huanqiu-zixun"]},
+{"name":"中国环球资讯广播 ","groupName":"📻国内🎧","urls":["https://worldradiomap.com/cn/play/cri_huanqiu-zixun"]},
 {"name":"中央人民广播电台中国之声 ","groupName":"📻国内🎧","urls":["https://worldradiomap.com/cn/play/cnr1_zhongguo"]},
 {"urls":["https://worldradiomap.com//cn/play/gd_guangzhou-myfm"],"name":"广州MYFM","groupName":"📻国内🎧"},
 {"urls":["https://worldradiomap.com//cn/play/cnr3_yinyue"],"name":"中央人民广播电台音乐之声","groupName":"📻国内🎧"},
