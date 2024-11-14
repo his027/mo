@@ -64,17 +64,29 @@
 {"name":"赤壁电视台","groupName":"DIY测试❤️","urls":["https://m-chibi.cjyun.org/dsgb/index.html"]},
 {"name":"赤壁电视台2","groupName":"DIY测试❤️","urls":["https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b"]},
 {"name":"赤壁电视台3","groupName":"DIY测试❤️","urls":["https://m-chibi.cjyun.org/p/117220.html"]},
-
 {"name":"赤壁人民广播电台","groupName":"DIY测试❤️","urls":["https://chibi-live21.cjyun.org/10138/s10138-CBFM01.m3u8?auth_key=1735660799-0-0-966229ac088fb24094722184cb100788"]},
+
+{"name":"凤凰中文伴音🎧","groupName":"DIY测试❤️","urls":["https://zuiai.tv/tv/Phoenix_Chinese_Channel.html","http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8"]},
+{"name":"凤凰资讯伴音🎧","groupName":"DIY测试❤️","urls":["https://zuiai.tv/tv/Phoenix_Infonews_Channel.html","http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"]},
+
+
+
+
+
+
+{"name":"河源综合","groupName":"DIY测试❤️","urls":["https://www.hyrtv.cn/itv/zhds/"]},
+{"name":"河源公共","groupName":"DIY测试❤️","urls":["https://www.hyrtv.cn/itv/ggds/"]},
 
 {"name":"湖北综合","groupName":"DIY测试❤️","urls":["https://news.hbtv.com.cn/app/tv/433"]},
 {"name":"湖北经视","groupName":"DIY测试❤️","urls":["https://news.hbtv.com.cn/app/tv/432"]},
 
 
 
-
-
 {"name":"龙游电视","groupName":"DIY测试❤️","urls":["https://www.lyrt.com.cn/202722/"]},
+
+{"name":"金砖中文","groupName":"DIY测试❤️","urls":["https://tvbrics.com/cn/live/"]},
+
+
 
 
 
@@ -397,8 +409,13 @@
 
 
 
-{"name":"湖北楚天交通广播 FM92.7 ","groupName":"📻国内🎧","urls":["https://worldradiomap.com/cn/play/hb_hubei-chutian"]},
-{"name":"中国环球资讯广播 ","groupName":"📻国内🎧","urls":["https://worldradiomap.com/cn/play/cri_huanqiu-zixun"]},
+{"name":"湖北楚天交通广播 FM92.7 ","groupName":"📻国内🎧","urls":["https://worldradiomap.com/cn/play/hb_hubei-chutian","https://m.qingting.fm/channels/1291/"]},
+{"name":"清晨音乐台","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/4915/"]},
+{"name":"AsiaFM 亚洲粤语台","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/15318569"]},
+{"name":"80后音悦台","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/20207761/"]},
+{"name":"动听音乐台","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/5022107/"]},
+{"name":"欧美音乐88.7","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/15318703"]},
+{"name":"国际新闻","groupName":"📻国内🎧","urls":["https://m.qingting.fm/channels/20500172/"]},{"name":"中国环球资讯广播 ","groupName":"📻国内🎧","urls":["https://worldradiomap.com/cn/play/cri_huanqiu-zixun"]},
 {"name":"中央人民广播电台中国之声 ","groupName":"📻国内🎧","urls":["https://worldradiomap.com/cn/play/cnr1_zhongguo"]},
 {"urls":["https://worldradiomap.com//cn/play/gd_guangzhou-myfm"],"name":"广州MYFM","groupName":"📻国内🎧"},
 {"urls":["https://worldradiomap.com//cn/play/cnr3_yinyue"],"name":"中央人民广播电台音乐之声","groupName":"📻国内🎧"},
@@ -525,12 +542,9 @@
 {"name":"马尔代夫古丽都岛","groupName":"直播中国🌈","urls":["https://www.skylinewebcams.com/en/webcam/maldives/lhaviyani-atoll/kurendhoo/maldives-kuredu.html"]},
 {"name":"马尔代夫古丽都岛度假村","groupName":"直播中国🌈","urls":["https://www.skylinewebcams.com/en/webcam/maldives/lhaviyani-atoll/kurendhoo/kuredu-island.html"]},
 {"name":"马尔代夫阿米拉岛","groupName":"直播中国🌈","urls":["https://www.skylinewebcams.com/en/webcam/maldives/baa-atoll/amilla-fushi/amilla-fushi.html"]},
-
 {"name":"广东韶关车八岭","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE3356.html"]},
 {"name":"广东汕头小公园中山纪念亭","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE3192.html"]},
 {"name":"广东深圳福田中央商务区","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE3333.html"]},
-{"name":"广东阳江海陵岛","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE3304.html"]},
-{"name":"广东广州师爷山","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE3131.html"]},
 {"name":"湖北武汉黄鹤楼","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE3950.html"]},
 {"name":"湖北武汉长江大桥","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE4281.html"]},
 {"name":"湖北天门陆羽故园","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE4279.html"]},
