@@ -1,13 +1,19 @@
 [{"name":"CCTV-1 综合","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv1/","https://www.yangshipin.cn/tv/home?pid=600001859"]},
 
 
-{"name":"健康中国","groupName":"📺央视","urls":["http://www.hkstv.tv/index/programplay/pid/175.html"]},
 
 {"name":"党校教育","groupName":"📺央视","urls":["https://dygbjy.12371.cn/"]},
 
-{"name":"直播全球","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/685/"]},
+{"name":"飞跃广东","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/669/"]},
 
 
+{"name":"生活大数据","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/735/"]},
+
+
+{"name":"今日关注","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/679/"]},
+
+
+{"name":"珠江新闻","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/674/"]},
 
 
 
