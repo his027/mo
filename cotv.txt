@@ -20,12 +20,23 @@
 {"name":"央视《中国新闻","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10522"]},
 {"name":"回家吃饭","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10354"]},
 {"name":"海峡两岸","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10140"]},
-{"name":"党校教育","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/674/"]},
-{"name":"党校教育","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/674/"]},
-{"name":"党校教育","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/674/"]},
-{"name":"党校教育","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/674/"]},
-{"name":"党校教育","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/674/"]},
 
+
+
+
+
+
+{"name":"湾区生活圈","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/66700646/"]},
+{"name":"凤凰子夜快车","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/info/1603984"]},
+{"name":"凤凰全球连线","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/info/1600125"]},
+{"name":"齐评天下","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/finance/59"]},
+{"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
+
+{"name":"总编辑时间","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/info/24"]},
+{"name":"央广.中国之声","groupName":"📺央视","urls":["https://m.cnr.cn/#/subpages/pages/audioDetails/audioDetails?tabsIndex=0&index=21&id=1120"]},
+{"name":"云遇中国","groupName":"📺央视","urls":["https://www.cnr.cn/yyzg/"]},
+{"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
+{"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
 
 
 
