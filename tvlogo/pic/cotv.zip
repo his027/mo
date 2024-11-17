@@ -1,7 +1,10 @@
 [{"name":"CCTV-1 综合","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv1/","https://www.yangshipin.cn/tv/home?pid=600001859"]},
-{"name":"CCTV-2 财经","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv2/","https://www.yangshipin.cn/tv/home?pid=600001800"]},
-{"name":"CCTV-3 综艺","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv3/"]},
 {"name":"CCTV-4 中文国际","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv4/","https://www.yangshipin.cn/tv/home?pid=600001814"]},
+{"name":"CCTV-13 新闻","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv13/","https://www.yangshipin.cn/tv/home?pid=600001811"]},
+{"name":"中国网.中国3分钟","groupName":"📺央视","urls":["http://chinamosaic.china.com.cn/"]},
+{"name":"中国网.视频中国","groupName":"📺央视","urls":["http://v.china.com.cn/"]},
+
+
 {"name":"央视💖新闻联播","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10492"]},
 {"name":"央视💖法治在线","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10501"]},
 {"name":"央视💖中国新闻","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10522"]},
@@ -12,6 +15,9 @@
 {"name":"凤凰💖聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
 {"name":"凤凰💖总编辑时间","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/info/24"]},
 
+{"name":"CCTV-2 财经","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv2/","https://www.yangshipin.cn/tv/home?pid=600001800"]},
+{"name":"CCTV-3 综艺","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv3/"]},
+
 {"name":"CCTV-5 体育","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv5/"]},
 {"name":"CCTV-5+ 体育赛事","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv5plus/"]},
 {"name":"CCTV-6 电影","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv6/"]},
@@ -21,7 +27,6 @@
 {"name":"CCTV-10 科教","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv10/","https://www.yangshipin.cn/tv/home?pid=600001805"]},
 {"name":"CCTV-11 戏曲","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv11/","https://www.yangshipin.cn/tv/home?pid=600001806"]},
 {"name":"CCTV-12 社会与法","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv12/","https://www.yangshipin.cn/tv/home?pid=600001807"]},
-{"name":"CCTV-13 新闻","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv13/","https://www.yangshipin.cn/tv/home?pid=600001811"]},
 {"name":"CCTV-14 少儿","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctvchild/","https://www.yangshipin.cn/tv/home?pid=600001809"]},
 {"name":"CCTV-15 音乐","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv15/","https://www.yangshipin.cn/tv/home?pid=600001815"]},
 {"name":"CCTV-16 奥林匹克","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv16/","https://www.yangshipin.cn/tv/home?pid=600098637"]},
@@ -74,7 +79,9 @@
 {"name":"凤凰中文伴音🎧","groupName":"DIY测试❤️","urls":["https://zuiai.tv/tv/Phoenix_Chinese_Channel.html","http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8"]},
 {"name":"凤凰资讯伴音🎧","groupName":"DIY测试❤️","urls":["https://zuiai.tv/tv/Phoenix_Infonews_Channel.html","http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"]},
 {"name":"💖回家吃饭","groupName":"DIY测试❤️","urls":["https://www.yangshipin.cn/video/home?lid=10354"]},
-
+{"name":"优酷.短剧1","groupName":"DIY测试❤️","urls":["https://www.youku.com/channel/shortvideo"]},
+{"name":"优酷.短剧2","groupName":"DIY测试❤️","urls":["https://www.youku.com/channel/shortvideo?filter=type_文化"]},
+{"name":"优酷.短剧3","groupName":"DIY测试❤️","urls":["https://www.youku.com/channel/shortvideo?filter=type_科技"]},
 
 {"name":"赤壁电视台","groupName":"DIY测试❤️","urls":["https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b"]},
 {"name":"赤壁电视台2","groupName":"DIY测试❤️","urls":["https://m-chibi.cjyun.org/dsgb/index.html"]},
@@ -575,21 +582,21 @@
 
 
 {"name":"云遇中国","groupName":"🌈云遇中国.慢直播","urls":["https://www.cnr.cn/yyzg/"]},
-{"urls":["https://cloudpull.cnr.cn/live/dllive/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：大连长海海参养殖基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzghuchen001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：宁波宁海县胡陈乡种植基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgpinglu001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：山西平鲁红山荞麦种植基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgwuning001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：江西武宁宁红茶种植基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgzhungeer001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：内蒙古准格尔旗暖水山地苹果产业示范基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgsdrs001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：山东威海乳山市生蚝养殖基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgxinyangdbdec001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：河南信阳市浉河区茶园风光"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgxinyangccbad001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：河南信阳毛尖种植园"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgyanyuan001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：四川盐源县苹果种植基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgcaidian001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：湖北蔡甸区莲藕种植基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgqa001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：黑龙江庆安稻作公园"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgahlq001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：安徽临泉县红薯种植基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzghuaining001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：安徽怀宁独秀山蓝莓产业基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/yyzgpengze001/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：江西省彭泽县鲫鱼养殖基地"}, 
-{"urls":["https://cloudpull.cnr.cn/live/xjlive/playlist.m3u8],"groupName":"🌈云遇中国.慢直播","name":"央广经济：新疆巴里坤县奎苏镇沙棘种植园"}, 
+{"urls":["https://cloudpull.cnr.cn/live/dllive/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：大连长海海参养殖基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzghuchen001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：宁波宁海县胡陈乡种植基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgpinglu001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：山西平鲁红山荞麦种植基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgwuning001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：江西武宁宁红茶种植基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgzhungeer001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：内蒙古准格尔旗暖水山地苹果产业示范基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgsdrs001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：山东威海乳山市生蚝养殖基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgxinyangdbdec001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：河南信阳市浉河区茶园风光"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgxinyangccbad001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：河南信阳毛尖种植园"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgyanyuan001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：四川盐源县苹果种植基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgcaidian001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：湖北蔡甸区莲藕种植基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgqa001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：黑龙江庆安稻作公园"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgahlq001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：安徽临泉县红薯种植基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzghuaining001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：安徽怀宁独秀山蓝莓产业基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/yyzgpengze001/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：江西省彭泽县鲫鱼养殖基地"}, 
+{"urls":["https://cloudpull.cnr.cn/live/xjlive/playlist.m3u8"],"groupName":"🌈云遇中国.慢直播","name":"央广经济：新疆巴里坤县奎苏镇沙棘种植园"}, 
 
 
 
