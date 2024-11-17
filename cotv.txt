@@ -3,10 +3,9 @@
 
 
 
-{"name":"广州综合","groupName":"📺央视","urls":["https://www.gztv.com/#/channel"]},
-
-
-
+{"name":"千里江山图","groupName":"📺央视","urls":["https://www.thepaper.cn/newsDetail_forward_25061346"]},
+{"name":"上海天际线","groupName":"📺央视","urls":["https://www.thepaper.cn/newsDetail_forward_12256226"]},
+{"name":"珠穆朗玛峰","groupName":"📺央视","urls":["https://www.thepaper.cn/newsDetail_forward_27761109"]},
 
 
 
@@ -21,24 +20,27 @@
 
 
 {"name":"抖音直播","groupName":"📺央视","urls":["https://live.douyin.com/"]},
+{"name":"抖音.潘教练科目一速记","groupName":"📺央视","urls":["https://live.douyin.com/955213189677"]},
+{"name":"抖音做家常菜","groupName":"📺央视","urls":["https://live.douyin.com/51617309201"]},
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 {"name":"百度.CCTV4","groupName":"📺央视","urls":["https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=9787914535&tab_category=rec&page_from=pclive_home"]},
 {"name":"百度.好看直播","groupName":"📺央视","urls":["https://live.baidu.com/?source=haokan_home"]},
 
-
-
-
-{"name":"中国网.中国3分钟","groupName":"📺央视","urls":["http://chinamosaic.china.com.cn/"]},
-{"name":"中国网.视频中国","groupName":"📺央视","urls":["http://v.china.com.cn/"]},
-
-
 {"name":"腾讯更新推荐","groupName":"📺央视","urls":["https://v.qq.com/error.html"]},
-
-
-{"name":"优酷.短剧","groupName":"📺央视","urls":["https://www.youku.com/channel/shortvideo"]},
-
-{"name":"优酷.短剧","groupName":"📺央视","urls":["https://www.youku.com/channel/shortvideo?filter=type_文化"]},
 
 {"name":"爱奇艺.短剧","groupName":"📺央视","urls":["https://www.iqiyi.com/shortvideo/"]},
 
