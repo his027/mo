@@ -2,39 +2,17 @@
 
 
 
-{"name":"党校教育","groupName":"📺央视","urls":["https://dygbjy.12371.cn/"]},
-
 
 {"name":"广州综合","groupName":"📺央视","urls":["https://www.gztv.com/#/channel"]},
 
 
-{"name":"广东@外来媳妇本地郎(最新)","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/788/"]},
-{"name":"广东@外来媳妇本地郎(第一部)","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/66700638/"]},
-{"name":"广东@烦事有办法","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/676/"]},
-{"name":"广东@举案说法","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/66700583/"]},
-{"name":"广东@趣游大湾区","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/66700662/"]},
-
-
-{"name":"央视《新闻联播","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10492"]},
-{"name":"央视《法治在线","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10501"]},
-{"name":"央视《中国新闻","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10522"]},
-{"name":"回家吃饭","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10354"]},
-{"name":"海峡两岸","groupName":"📺央视","urls":["https://www.yangshipin.cn/video/home?lid=10140"]},
 
 
 
 
-
-
-{"name":"湾区生活圈","groupName":"📺央视","urls":["https://www.gdtv.cn/tvColumnVideo/66700646/"]},
-{"name":"凤凰子夜快车","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/info/1603984"]},
-{"name":"凤凰全球连线","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/info/1600125"]},
-{"name":"齐评天下","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/finance/59"]},
-{"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
-
-{"name":"总编辑时间","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/info/24"]},
 {"name":"央广.中国之声","groupName":"📺央视","urls":["https://m.cnr.cn/#/subpages/pages/audioDetails/audioDetails?tabsIndex=0&index=21&id=1120"]},
-{"name":"云遇中国","groupName":"📺央视","urls":["https://www.cnr.cn/yyzg/"]},
+
+
 {"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
 {"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
 
@@ -42,7 +20,29 @@
 
 
 
+{"name":"抖音直播","groupName":"📺央视","urls":["https://live.douyin.com/"]},
 
+
+{"name":"百度.CCTV4","groupName":"📺央视","urls":["https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=9787914535&tab_category=rec&page_from=pclive_home"]},
+{"name":"百度.好看直播","groupName":"📺央视","urls":["https://live.baidu.com/?source=haokan_home"]},
+
+
+
+
+{"name":"中国网.中国3分钟","groupName":"📺央视","urls":["http://chinamosaic.china.com.cn/"]},
+{"name":"中国网.视频中国","groupName":"📺央视","urls":["http://v.china.com.cn/"]},
+
+
+{"name":"腾讯更新推荐","groupName":"📺央视","urls":["https://v.qq.com/error.html"]},
+
+
+{"name":"优酷.短剧","groupName":"📺央视","urls":["https://www.youku.com/channel/shortvideo"]},
+
+{"name":"优酷.短剧","groupName":"📺央视","urls":["https://www.youku.com/channel/shortvideo?filter=type_文化"]},
+
+{"name":"爱奇艺.短剧","groupName":"📺央视","urls":["https://www.iqiyi.com/shortvideo/"]},
+
+{"name":"爱奇艺.新片预告","groupName":"📺央视","urls":["https://www.iqiyi.com/newonline/"]},
 
 
 
@@ -70,20 +70,12 @@
 {"name":"LOVE NATURE 4Kᴴᴰ","groupName":"DIY测试❤️","urls":["https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8","https://www.cxtvlive.com/live-tv/love-nature"]},
 {"name":"NATURE 4Kᴴᴰ","groupName":"DIY测试❤️","urls":["http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8"]},
 
-{"name":"广东珠江","groupName":"DIY测试❤️","urls":["https://www.gdtv.cn/tvChannelDetail/44"]},
-{"name":"赤壁电视台","groupName":"DIY测试❤️","urls":["https://m-chibi.cjyun.org/dsgb/index.html"]},
-{"name":"赤壁电视台2","groupName":"DIY测试❤️","urls":["https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b"]},
-{"name":"赤壁电视台3","groupName":"DIY测试❤️","urls":["https://m-chibi.cjyun.org/p/117220.html"]},
-{"name":"赤壁电视台4","groupName":"DIY测试❤️","urls":["https://chibi.cjyun.org/p/117220.html"]},
 
+{"name":"赤壁电视台","groupName":"DIY测试❤️","urls":["https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b"]},
+{"name":"赤壁电视台2","groupName":"DIY测试❤️","urls":["https://m-chibi.cjyun.org/dsgb/index.html"]},
+{"name":"赤壁电视台3","groupName":"DIY测试❤️","urls":["https://m-chibi.cjyun.org/p/117220.html","https://chibi.cjyun.org/p/117220.html"]},
 
-
-{"name":"赤壁人民广播电台","groupName":"DIY测试❤️","urls":["https://chibi-live21.cjyun.org/10138/s10138-CBFM01.m3u8?auth_key=1735660799-0-0-966229ac088fb24094722184cb100788"]},
-{"name":"赤壁人民广播电台2","groupName":"DIY测试❤️","urls":["https://chibi.cjyun.org/p/40969.html"]},
-
-
-{"name":"凤凰中文伴音🎧","groupName":"DIY测试❤️","urls":["https://zuiai.tv/tv/Phoenix_Chinese_Channel.html","http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8"]},
-{"name":"凤凰资讯伴音🎧","groupName":"DIY测试❤️","urls":["https://zuiai.tv/tv/Phoenix_Infonews_Channel.html","http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"]},
+{"name":"赤壁人民广播电台","groupName":"DIY测试❤️","urls":["https://chibi-live21.cjyun.org/10138/s10138-CBFM01.m3u8?auth_key=1735660799-0-0-966229ac088fb24094722184cb100788","https://chibi.cjyun.org/p/40969.html"]},
 
 
 
@@ -93,7 +85,8 @@
 
 
 
-{"name":"CCTV6","groupName":"DIY测试❤️","urls":["https://www.1905.com/cctv6/live/?index"]},
+
+
 
 
 
