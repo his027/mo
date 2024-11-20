@@ -50,7 +50,7 @@
 {"name":"湖南卫视","groupName":"📺卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002475"]},
 {"name":"辽宁卫视","groupName":"📺卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002505"]},
 {"name":"江苏卫视","groupName":"📺卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002521","http://live.jstv.com/?id=1"]},
-{"name":"北京卫视","groupName":"卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002309","https://www.brtn.cn/btv/btvsy_index"]},
+{"name":"北京卫视","groupName":"📺卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002309","https://www.brtn.cn/btv/btvsy_index"]},
 {"name":"东方卫视","groupName":"📺卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002483","https://live.kankanews.com/huikan"]},
 {"name":"湖北卫视","groupName":"📺卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002508","https://news.hbtv.com.cn/app/tv/431"]},
 {"name":"广东卫视","groupName":"📺卫视","urls":["https://www.yangshipin.cn/tv/home?pid=600002485","https://www.gdtv.cn/tvChannelDetail/43"]},
@@ -71,7 +71,7 @@
 {"name":"新疆卫视","groupName":"📺卫视","urls":["https://www.xjtvs.com.cn/column/tv/434?channelId=1"]},
 {"name":"康巴卫视","groupName":"📺卫视","urls":["https://www.kangbatv.com/zb_22587/"]},
 {"name":"山西卫视","groupName":"📺卫视","urls":["https://www.sxrtv.com/tv/index.shtml"]},
-{"name":"延边卫视","groupName":"📺卫视","urls":["https://www.yb983.com/cys/index.html"]},
+
 {"name":"新疆卫视","groupName":"📺卫视","urls":["https://www.xjtvs.com.cn/column/tv/434?channelId=1"]},
 {"name":"大湾区卫视","groupName":"📺卫视","urls":["https://www.gdtv.cn/tvChannelDetail/51"]},
 {"name":"大湾区卫视（海外版）","groupName":"📺卫视","urls":["https://www.gdtv.cn/tvChannelDetail/46"]},
@@ -579,6 +579,10 @@
 
 
 
+
+{"name":"千里江山图","groupName":"直播中国🌈","urls":["https://www.thepaper.cn/newsDetail_forward_25061346"]},
+{"name":"上海天际线","groupName":"直播中国🌈","urls":["https://www.thepaper.cn/newsDetail_forward_12256226"]},
+{"name":"珠穆朗玛峰","groupName":"直播中国🌈","urls":["https://www.thepaper.cn/newsDetail_forward_27761109"]},
 
 {"name":"广东阳江海陵岛","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE3304.html"]},
 {"name":"广东广州师爷山","groupName":"直播中国🌈","urls":["https://livechina.cctv.com/live_zb/LIVE3131.html"]},
@@ -8866,12 +8870,12 @@
 {"name":"明珠台","groupName":"香港🌐","urls":["https://www.tiantianzhibo.net/player/index?id=910drXCXuvox1KxMaCzEhMltq5JK1qSQy9zm-nkstsFwqLSw7i4","https://idx.gdplayertv.to/live-tv/tvb-pearl/?embed=1"]},
 {"name":"鳳凰衛視資訊台","groupName":"香港🌐","urls":["https://www.fengshows.com/live"]},
 {"name":"香港衛視","groupName":"香港🌐","urls":["http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8","http://www.hkstv.tv/index/live.html"]},
-{"name":"澳視澳門","groupName":"澳門","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=1&type=tv","http://61.244.22.5/ch1/ch1.live/index.m3u8"]},
+{"name":"澳視澳門","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=1&type=tv","http://61.244.22.5/ch1/ch1.live/index.m3u8"]},
 {"name":"澳視葡文","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=2&type=tv"]},
-{"name":"澳門資訊","groupName":"澳門","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=5&type=tv","http://61.244.22.5/ch5/info_ch5.live/master.m3u8"]},
+{"name":"澳門資訊","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=5&type=tv","http://61.244.22.5/ch5/info_ch5.live/master.m3u8"]},
 {"name":"澳門體育","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=6&type=tv"]},
 {"name":"澳門綜藝","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=7&type=tv"]},
-{"name":"澳門MACAU","groupName":"澳門","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv","http://61.244.22.5/ch3/ch3.live/index.m3u8"]},
+{"name":"澳門MACAU","groupName":"澳門🌐","urls":["https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv","http://61.244.22.5/ch3/ch3.live/index.m3u8"]},
 
 {"name":"東森新聞","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=d7c9cqojVv8HhOKJ21KwZvsYwApfnEiecpCVhysKZsYsWnGGTw","https://www.4gtv.tv/channel/4gtv-4gtv152?set=4&ch=292"]},
 {"name":"東森財經","groupName":"灣灣🌐","urls":["https://www.tiantianzhibo.net/player/index?id=5440lDG41CDeziB7SsRoChqYyIiSs14oznWXOe6Pw3W09l32yA"]},
