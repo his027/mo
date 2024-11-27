@@ -1,55 +1,56 @@
 [{"name":"CCTV-1 综合","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv1/","https://www.yangshipin.cn/tv/home?pid=600001859"]},
 
 
-
-
-
-
 {"name":"央广.中国之声","groupName":"📺央视","urls":["https://m.cnr.cn/#/subpages/pages/audioDetails/audioDetails?tabsIndex=0&index=21&id=1120"]},
 
-
 {"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
 {"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
 
 
 
+
+
+
+
+
+{"name":"百度.好看直播","groupName":"📺央视","urls":["https://live.baidu.com/?source=haokan_home"]},
+
+{"name":"百度.新闻频道","groupName":"📺央视","urls":["https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=9813150140"]},
+{"name":"百度.英雄归乡","groupName":"📺央视","urls":["https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=9812839537"]},
+
+{"name":"百度.经典电影PC","groupName":"📺央视","urls":["https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=9790259721&source=haokan_home&tab_category=rec&page_from=pclive_home"]},
+{"name":"百度.经典电影","groupName":"📺央视","urls":["https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=9790259721"]},
+
+
+
+
+{"name":"iqiyi.短剧","groupName":"📺央视","urls":["https://www.iqiyi.com/shortvideo/"]},
+{"name":"iqiyi.免费","groupName":"📺央视","urls":["https://www.iqiyi.com/free/"]},
+{"name":"iqiyi.云影","groupName":"📺央视","urls":["https://www.iqiyi.com/cloudCinema/"]},
+
+
+
+{"name":"QQ.短剧","groupName":"📺央视","urls":["https://v.qq.com/channel/mini_drama/"]},
+{"name":"QQ.综艺","groupName":"📺央视","urls":["https://v.qq.com/channel/variety"]},
+{"name":"QQ.电影 ","groupName":"📺央视","urls":["https://v.qq.com/channel/movie"]},
 
 
 
 
 
 {"name":"抖音直播","groupName":"📺央视","urls":["https://live.douyin.com/"]},
+{"name":"抖音直播Mobile","groupName":"📺央视","urls":["https://live.douyin.com/?is_from_mobile_home"]},
+
 {"name":"抖音.潘教练科目一速记","groupName":"📺央视","urls":["https://live.douyin.com/955213189677"]},
-{"name":"抖音做家常菜","groupName":"📺央视","urls":["https://live.douyin.com/51617309201"]},
 
 
+{"name":"抖音.mobile短剧","groupName":"📺央视","urls":["https://www.douyin.com/?is_from_mobile_home=1&recommend=1"]},
 
-
-
-
-
-
-
-
-
-
-
-
-
-{"name":"百度.CCTV4","groupName":"📺央视","urls":["https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=9787914535&tab_category=rec&page_from=pclive_home"]},
-{"name":"百度.好看直播","groupName":"📺央视","urls":["https://live.baidu.com/?source=haokan_home"]},
-
-{"name":"腾讯更新推荐","groupName":"📺央视","urls":["https://v.qq.com/error.html"]},
-
-{"name":"爱奇艺.短剧","groupName":"📺央视","urls":["https://www.iqiyi.com/shortvideo/"]},
-
-{"name":"爱奇艺.新片预告","groupName":"📺央视","urls":["https://www.iqiyi.com/newonline/"]},
-
-
-
-{"name":"QQ短剧","groupName":"📺央视","urls":["https://v.qq.com/channel/mini_drama/"]},
-
-{"name":"抖音直播","groupName":"📺央视","urls":["https://webcast.amemv.com/douyin/webcast/reflow/7441592160681544460"]},
+{"name":"抖音.短剧1","groupName":"📺央视","urls":["https://www.douyin.com/?recommend=1"]},
+{"name":"抖音.短剧2","groupName":"📺央视","urls":["https://www.douyin.com/?recommend=2"]},
+{"name":"抖音.短剧3","groupName":"📺央视","urls":["https://www.douyin.com/?recommend=3"]},
+{"name":"抖音.短剧4","groupName":"📺央视","urls":["https://www.douyin.com/?recommend=4"]},
+{"name":"抖音.短剧5","groupName":"📺央视","urls":["https://www.douyin.com/?recommend=5"]},
 
 
 
@@ -68,6 +69,13 @@
 {"name":"CCTV-9 记录","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctvjilu/","https://www.yangshipin.cn/tv/home?pid=600004078"]},
 {"name":"CCTV-10 科教","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv10/","https://www.yangshipin.cn/tv/home?pid=600001805"]},
 {"name":"CCTV-11 戏曲","groupName":"📺央视","urls":["https://tv.cctv.com/live/cctv11/","https://www.yangshipin.cn/tv/home?pid=600001806"]},
+
+
+
+
+
+
+
 
 
 
