@@ -3,10 +3,6 @@
 
 
 
-{"name":"千里江山图","groupName":"📺央视","urls":["https://www.thepaper.cn/newsDetail_forward_25061346"]},
-{"name":"上海天际线","groupName":"📺央视","urls":["https://www.thepaper.cn/newsDetail_forward_12256226"]},
-{"name":"珠穆朗玛峰","groupName":"📺央视","urls":["https://www.thepaper.cn/newsDetail_forward_27761109"]},
-
 
 
 {"name":"央广.中国之声","groupName":"📺央视","urls":["https://m.cnr.cn/#/subpages/pages/audioDetails/audioDetails?tabsIndex=0&index=21&id=1120"]},
@@ -14,6 +10,9 @@
 
 {"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
 {"name":"凤凰聚焦","groupName":"📺央视","urls":["https://phtv.ifeng.com/channel/subject/1603985"]},
+
+
+
 
 
 
@@ -47,6 +46,10 @@
 {"name":"爱奇艺.新片预告","groupName":"📺央视","urls":["https://www.iqiyi.com/newonline/"]},
 
 
+
+{"name":"QQ短剧","groupName":"📺央视","urls":["https://v.qq.com/channel/mini_drama/"]},
+
+{"name":"抖音直播","groupName":"📺央视","urls":["https://webcast.amemv.com/douyin/webcast/reflow/7441592160681544460"]},
 
 
 
