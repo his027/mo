@@ -34,6 +34,19 @@
 
 
 
+{"name":"快手推荐🧫直播🧿","groupName":"📺央视","urls":["https://www.kuaishou.com/new-reco"]},
+
+
+{"name":"A站🧫直播🧿","groupName":"📺央视","urls":["https://live.acfun.cn/?ft=1&fi=3"]},
+
+
+
+{"name":"A站1🧫直播🧿","groupName":"📺央视","urls":["https://live.acfun.cn/live/30352828/"]},
+
+
+{"name":"A站2🧫直播🧿","groupName":"📺央视","urls":["https://live.acfun.cn/live/2889712"]},
+
+
 
 
 
