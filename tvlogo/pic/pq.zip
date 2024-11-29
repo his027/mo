@@ -272,7 +272,11 @@
 {"key":"push_agent","name":"💢推送(工具)","type":3,"api":"csp_Push", "searchable": 0, "quickSearch": 0,"filterable": 0,"timeout":30,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/update/tokenm.php"},
 
 
-
+ {"key":"⚓克隆合集","name":"克隆合集⚓","type":4,"api":"http://zhangqun66.com/klhj.php","searchable":1,"quickSearch":1,"filterable":0},
+ {"key":"⚓黑木耳克隆","name":"黑木耳克隆⚓","type":4,"api":"http://zhangqun66.com/225.php","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"⚓金鹰克隆","name":"金鹰克隆⚓","type":4,"api":"http://zhangqun66.com/jy.php","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"⚓华为吧克隆","name":"华为吧克隆⚓","type":4,"api":"http://zhangqun66.com/hwb.php","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"⚓索尼克隆","name":"索尼克隆⚓","type":4,"api":"http://zhangqun66.com/sn.php","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"⚓T4-安博","name":"安博⚓","type":4,"api":"https://tang.hz.cz/power/ub18?token=938bbe71","searchable":1,"quickSearch":1,"filterable":1,"changeable":0}],
 
@@ -380,7 +384,9 @@
 {"name":"📺中港台直播源0521","type":0,"boot":true,"pass":true,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/geminijummnm/mimitu/main/中港台直播源0521.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"📺港澳台终极版","type":0,"boot":true,"pass":true,"url":"https://d.kstore.space/download/8209/港澳台终极版.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"🟢4GTV","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://www.mytvsuper.us.kg/4gtv.m3u"},
+{"name":"🟢mytvsuper","type":0,"timeout":40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://www.mytvsuper.xyz/m3u/Live.m3u"},
+{"name":"🟢mytvsuper-ofiii","type":0,"timeout":40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://www.mytvsuper.xyz/m3u/ofiii.m3u"},
+{"name":"🟢cnlive","type":0,"timeout": 40,"pass":true,"boot":false,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://f.cnlive.club/playlist.m3u"},
 
 {"name":"🟢iill.MyTV","type":0,"boot":false,"pass":true,"url":"https://tv.iill.top/m3u/MyTV","playerType":1,"timeout":10,"epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
@@ -548,6 +554,9 @@
 {"name":"📺有毒宝盒","type":0,"boot":false,"pass":true,"url":"https://tv.youdu.fan:666/live/","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
+{"name":"🟢wqwqwq","type":0,"timeout": 40,"pass":true,"boot":false,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.wqwqwq.sbs/tv.m3u"},
+
+{"name":"📺wadg全","type":0,"boot":true,"pass":true,"url":"http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"📺放牛娃1","type":0,"boot":true,"pass":true,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"📺放牛娃2","type":0,"boot":true,"pass":true,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924675/live2.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
