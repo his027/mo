@@ -101,8 +101,12 @@
 {"name":"小优🧫短剧1","groupName":"DIY测试❤️","urls":["https://www.youku.com/channel/shortvideo"]},
 {"name":"小优🧫短剧2","groupName":"DIY测试❤️","urls":["https://www.youku.com/channel/shortvideo?filter=type_文化"]},
 {"name":"小优🧫短剧3","groupName":"DIY测试❤️","urls":["https://www.youku.com/channel/shortvideo?filter=type_科技"]},
-{"name":"抖音🧫m短剧1","groupName":"DIY测试❤️","urls":["https://www.douyin.com/?is_from_mobile_home=1&recommend=1"]},
-{"name":"抖音🧫m短剧2","groupName":"DIY测试❤️","urls":["https://www.douyin.com/?is_from_mobile_home=1&recommend=2"]},
+{"name":"抖音🧫m短剧1","groupName":"DIY测试❤️","urls":["https://www.douyin.com/?is_from_mobile_home=1"]},
+
+{"name":"抖音🧫m短剧2","groupName":"DIY测试❤️","urls":["https://www.douyin.com/?is_from_mobile_home=2"]},
+{"name":"抖音🧫m短剧3","groupName":"DIY测试❤️","urls":["https://www.douyin.com/?is_from_mobile_home=3"]},
+
+
 {"name":"小度🧫好看直播","groupName":"DIY测试❤️","urls":["https://live.baidu.com/?source=haokan_home"]},
 {"name":"小度🧫英雄归乡","groupName":"DIY测试❤️","urls":["https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=9812839537"]},
 {"name":"小度🧫经典电影","groupName":"DIY测试❤️","urls":["https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=9790259721"]},
