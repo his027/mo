@@ -308,7 +308,7 @@
 {"name":"🟢fanmingming-ipv6","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
 {"name":"📺YanG-1989 Gather","type":0,"boot":true,"pass":true,"url":"https://m3u.ibert.me/txt/y_g.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"🟢范明ipv6","type":0,"boot":false,"pass":true,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
 
 
 
@@ -343,12 +343,15 @@
 {"name":"📺Git.meilirenTV🔞","type":0,"boot":false,"pass":false,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
-{"name":"肥羊🏳️‍🌈TPTV","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tptv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
-{"name":"肥羊🏳️‍🌈B站直播","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bililive.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
-{"name":"肥羊🏳️‍🌈虎牙一起看","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/huyayqk.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
-{"name":"肥羊🏳️‍🌈斗鱼一起看","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/douyuyqk.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
-{"name":"肥羊🏳️‍🌈YY轮播","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/yylunbo.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
-
+{"name":"肥羊🏳️‍🌈国内直播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈咪咕电视直播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/1800/null/http://127.0.0.1:35456/migu.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈咪咕赛事直播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/1800/null/http://127.0.0.1:35456/miguevent.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈TX赛事直播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/10/null/http://127.0.0.1:35456/txevent.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈TPTV🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tptv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈B站直播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bililive.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈虎牙一起看🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/huyayqk.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈斗鱼一起看🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/douyuyqk.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥羊🏳️‍🌈YY轮播🟢","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/yylunbo.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 
 
 {"name":"🏳️‍🌈自动扫描zhoujie218","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.zhoujie218.top/tv/iptv4.m3u"},
@@ -367,6 +370,8 @@
 
 {"name":"📺港澳晴天p2p","type":0,"boot":true,"pass":true,"url":"https://4026.kstore.space/tv/p2p.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
+
+{"name":"📺106.15全","type":0,"boot":true,"pass":true,"url":"http://106.15.0.105/live.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 {"name":"📺rihou","type":0,"boot":true,"pass":true,"url":"http://rihou.cc:55/lib/kx2024.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
