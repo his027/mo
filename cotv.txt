@@ -34,17 +34,12 @@
 
 
 
-{"name":"快手推荐🧫直播🧿","groupName":"📺央视","urls":["https://www.kuaishou.com/new-reco"]},
+{"name":"快手推荐🧫直播","groupName":"📺央视","urls":["https://www.kuaishou.com/new-reco"]},
 
 
-{"name":"A站🧫直播🧿","groupName":"📺央视","urls":["https://live.acfun.cn/?ft=1&fi=3"]},
+{"name":"A站1🧫直播","groupName":"📺央视","urls":["https://live.acfun.cn/live/30352828/"]},
 
-
-
-{"name":"A站1🧫直播🧿","groupName":"📺央视","urls":["https://live.acfun.cn/live/30352828/"]},
-
-
-{"name":"A站2🧫直播🧿","groupName":"📺央视","urls":["https://live.acfun.cn/live/2889712"]},
+{"name":"A站2🧫直播","groupName":"📺央视","urls":["https://live.acfun.cn/live/2889712"]},
 
 
 
@@ -90,7 +85,13 @@
 
 
 
+{"name":"random**","groupName":"🚑C-youlai","urls":["https://random-web-player.pages.dev/"]},
+
+
+
+
 {"name":"踩踏","groupName":"🚑C-youlai","urls":["https://m.youlai.cn/jijiu/article/075B52mmT.html"]}
+
 
 
 
