@@ -56,7 +56,7 @@
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 60,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/update/tokenm.php$$$http://tg.seczh.com/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$noproxy$$$1"      },
+            "ext": "https://slink.ltd/https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/update/tokenm.php$$$http://tg.seczh.com/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$noproxy$$$1"      },
 
 
 {"key":"meow-gzys","name":"瓜子┃🏁","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"timeout":30,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
@@ -273,7 +273,7 @@
 
 {"key":"LocalFile","name":"🖥本机视频(LocalFile)📁","type":3,"api":"csp_Local","searchable":1,"quickSearch":1,"filterable":0,"type_flag":1},
 
-{"key":"push_agent","name":"💢推送(工具)","type":3,"api":"csp_Push", "searchable": 0, "quickSearch": 0,"filterable": 0,"timeout":30,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/update/tokenm.php"},
+{"key":"push_agent","name":"💢推送(工具)","type":3,"api":"csp_Push", "searchable": 0, "quickSearch": 0,"filterable": 0,"timeout":30,"ext":"https://slink.ltd/https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/update/tokenm.php"},
 
 
  {"key":"⚓克隆合集","name":"克隆合集⚓","type":4,"api":"http://zhangqun66.com/klhj.php","searchable":1,"quickSearch":1,"filterable":0},
@@ -310,7 +310,7 @@
   {"name":"🟢iill.Live","type":0,"boot":false,"pass":true,"url":"https://tv.iill.top/m3u/Live","playerType":1,"timeout":10,"epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"🟢范明ipv6","type":0,"boot":false,"pass":true,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢范明ipv6.gith","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢范明ipv6.gith","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 
@@ -324,7 +324,7 @@
 
 
 
-{"name":"🟢Gather💍","type":0,"pass":true,"boot":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"timeout":10},
+{"name":"🟢Gather💍","type":0,"pass":true,"boot":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"timeout":10},
 
 {"name":"🟢范明明内置","type":0,"boot":true,"pass":true,"url":"https://8648.kstore.space/all-fmm.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"📺notabug🌐","type":0,"boot":true,"pass":true,"url":"https://notabug.org/jick/ji/raw/master/live","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
@@ -336,19 +336,19 @@
 {"name":"📺zblive","type":0,"boot":false,"pass":true,"url":"http://112.74.124.75:8899/zb.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
-{"name":"📺Git.250992941","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺Git.250992941","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"📺Git.lwm212","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/lwm212/JK/main/live/xyzb.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺Git.lwm212","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/lwm212/JK/main/live/xyzb.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 {"name":"📺df电信","type":0,"boot":false,"pass":true,"url":"http://47.99.102.252/df.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"📺Git.qist","type":0,"boot":false,"pass":true,"url":"https://testingcf.jsdelivr.net/gh/qist/tvbox@master/tvboxtv.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"📺Git.jackson0829","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/CR.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺Git.jackson0829","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/CR.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
-{"name":"📺Git.meilirenTV🔞","type":0,"boot":false,"pass":false,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺Git.meilirenTV🔞","type":0,"boot":false,"pass":false,"url":"https://slink.ltd/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 
@@ -361,22 +361,22 @@
 
 {"name":"🏳️‍🌈自动扫描zhoujie218","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.zhoujie218.top/tv/iptv4.m3u"},
 
-{"name":"🏳️‍🌈自动更新ssili126📺","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🏳️‍🌈自动更新ssili126📺","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"🏳️‍🌈Jundie可选🎖️","type":0,"boot":true,"pass":true,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"🟢自更新vbskycn🏳️‍🌈","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢自更新vbskycn🏳️‍🌈","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"🌏TVradio🎖️","type":0,"boot":true,"pass":true,"url":"https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"🟢yuanzl77","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://gh-proxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"},
+{"name":"🟢yuanzl77","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://slink.ltd/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"},
 
 {"name":"📺开心","type":0,"boot":false,"pass":true,"url":"http://kxrj.site:55/lib/kx2024.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"iptv365🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.iptv365.org/live.m3u"},
 
 
-{"name":"📺qinvision","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺qinvision","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"高码CCTV🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://livetv.wqwqwq.sbs/tv.m3u"},
 {"name":"高码TV🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://tvv.wqwqwq.sbs/iptv.m3u"},
@@ -394,7 +394,7 @@
 
 {"name":"📺4gtv","type":0,"boot":true,"pass":true,"url":"https://4gtv.pendy.us.kg/myiptv.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"📺Television.git","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺Television.git","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"📺广东联通UPS","type":0,"boot":false,"pass":true,"url":"https://taoiptv.com/subs/44024.txt?token=a7262c62dc4691ef","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"📺湖南移动UPS","type":0,"boot":false,"pass":true,"url":"https://taoiptv.com/subs/43025.txt?token=a7262c62dc4691ef","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
@@ -404,7 +404,7 @@
 {"name":"📺live Asian🌐","type":0,"boot":true,"pass":true,"url":"https://anbox118.serv00.net/mytvbplus.php","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"📺anbox118🌐","type":0,"boot":true,"pass":true,"url":"https://anbox118.serv00.net/mytvbplus.php","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"📺中港台直播源0521","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/geminijummnm/mimitu/main/中港台直播源0521.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺中港台直播源0521","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/geminijummnm/mimitu/main/中港台直播源0521.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"📺港澳台终极版","type":0,"boot":true,"pass":true,"url":"https://d.kstore.space/download/8209/港澳台终极版.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"🟢mytvsuper","type":0,"timeout":40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://www.mytvsuper.xyz/m3u/Live.m3u"},
@@ -424,7 +424,7 @@
 {"name":"freetv虎牙🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.freetv.top/huyayqk.m3u"},
 {"name":"freetv斗鱼🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://live.freetv.top/douyuyqk.m3u"},
 
-{"name":"👻惊悚tianya7981🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://gh-proxy.com/https://raw.githubusercontent.com/tianya7981/jiekou/main/20240714"},
+{"name":"👻惊悚tianya7981🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://slink.ltd/https://raw.githubusercontent.com/tianya7981/jiekou/main/20240714"},
 
 {"name":"📺yuanzl77更新","type":0,"boot":true,"pass":true,"url":"http://175.178.251.183:6689/live.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
@@ -451,9 +451,9 @@
 {"name":"📺环宇轩","type":0,"boot":true,"pass":true,"url":"http://o0o0o.000.pe/file/33.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
-{"name":"📺wwb521更新","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺wwb521更新","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/wwb521/live/main/tv.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"📺zwc456baby更新","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺zwc456baby更新","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"📺666","type":0,"boot":false,"pass":true,"url":"https://d.kstore.space/download/6758/666.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
@@ -469,7 +469,7 @@
 
 {"name":"📺Iptv港澳台直播","type":0,"boot":true,"pass":true,"url":"https://cccimg.com/down.php/b2f5eac0503651b5e05f84e326181322.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"📺GAT-99","type":0,"boot":true,"pass":false,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺GAT-99","type":0,"boot":true,"pass":false,"url":"https://slink.ltd/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"📺szfx焦点**🔞","type":0,"boot":false,"pass":false,"url":"https://yun.szfx.top/file/c524dda25e65f054c368330965a9ebbc","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
@@ -481,7 +481,7 @@
 
 {"name":"📺Sub-IPV6","type":0,"boot":false,"pass":true,"url":"https://json.doube.eu.org/live/IPV6/Sub.php","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"🟢lalifeier","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/Live.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢lalifeier","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/Live.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"📺好视TV","type":0,"boot":false,"pass":true,"url":"http://61.163.58.154:1314/app/dwq.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
@@ -506,24 +506,24 @@
 
 
 
-{"name":"qingwen07-china_all🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://gh-proxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/china_all.m3u"},
+{"name":"qingwen07-china_all🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://slink.ltd/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/china_all.m3u"},
 
-{"name":"qingwen07-gang_ao_tai🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://gh-proxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/gang_ao_tai.m3u"},
-{"name":"qingwen07_all📺","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
- {"name":"🟢DangJin","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/DangJin/awesome-iptv/main/IPTV.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"}, 
+{"name":"qingwen07-gang_ao_tai🟢","type":0,"timeout": 40,"pass":true,"boot":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","url":"https://slink.ltd/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/gang_ao_tai.m3u"},
+{"name":"qingwen07_all📺","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+ {"name":"🟢DangJin","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/DangJin/awesome-iptv/main/IPTV.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"}, 
 
-{"name":"🟢Kimentyqk","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yqk.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢Kiment虎牙","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢Kiment-iptv","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢Kiment-radio📻","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢Kiment斗鱼","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-
-
+{"name":"🟢Kimentyqk","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yqk.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Kiment虎牙","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Kiment-iptv","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Kiment-radio📻","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Kiment斗鱼","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 
 
-{"name":"📺daiweichun","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+
+{"name":"📺daiweichun","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"📺gmbbk","type":0,"boot":false,"pass":true,"url":"http://l.gmbbk.com/upload/29932993.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
@@ -536,12 +536,12 @@
 {"name":"📺电视家","type":0,"boot":true,"pass":true,"url":"http://99.weidonglong.com/99.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
-{"name":"📺央卫IPTV(定期更新)","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"📺央卫地方IPTV(定期更新)","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺央卫IPTV(定期更新)","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺央卫地方IPTV(定期更新)","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"📺天微科技","type":0,"boot":true,"pass":true,"url":"https://tvkj.top/tvlive.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"📺Fairy8o","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺Fairy8o","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 
@@ -559,13 +559,13 @@
 
 {"name":"📺liulian1993","type":0,"boot":true,"pass":true,"url":"http://liulian1993.vip:5555/tvbox/lib/ziji/lib/live.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"📺tianya7981P2P","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/tianya7981/jiekou/main/20240522","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺tianya7981P2P","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/tianya7981/jiekou/main/20240522","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 {"name":"📺gongdian","type":0,"boot":true,"pass":true,"url":"https://gongdian.top/tv/gongdian-ipv6.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"📺野火改MITV","type":0,"boot":true,"pass":true,"url":"https://api.paoyun.eu.org/zq/野火改.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"📺World@c120487","type":0,"boot":false,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live0814.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"📺World@c120487","type":0,"boot":false,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/c120487/00/main/00live0814.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
  {"name":"📺52sw@migu","type":0,"boot":false,"pass":true,"url":"http://www.52sw.top:678/play/migu.php","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
@@ -597,7 +597,7 @@
 
 
 
-{"name":"🟢joevess央视卫视","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢joevess央视卫视","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"📺**电视家源 ","type":0,"boot":true,"pass":false,"url":"https://gitee.com/zhuyuxian/cyys/raw/master/live20220813.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
@@ -649,17 +649,17 @@
 
 
 
-{"name":"🟢Ftindy-BESTV","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢Ftindy-GHYX","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢Ftindy-IPV6","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢Ftindy-爱尚","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢Ftindy-CQYX","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢Ftindy-ITOUCH","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Ftindy-BESTV","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Ftindy-GHYX","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Ftindy-IPV6","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Ftindy-爱尚","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Ftindy-CQYX","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢Ftindy-ITOUCH","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"🟢YQGD源","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢YQGD源","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
-{"name":"🟢 HBGD源","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🟢MSP源","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢 HBGD源","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🟢MSP源","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 
@@ -679,16 +679,16 @@
 {"name":"🟢epg音樂","type":0,"boot":true,"pass":true,"url":"https://epg.pw/test_channels_music.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"🌏(lylehust)","type":0,"boot":true,"pass":true,"url":"https://cdn.jsdelivr.net/gh/lylehust/Chinese-IPTV/TV-SXYD.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏Movies","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/movies.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏体育sports","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/sports.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏户外outdoor","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/outdoor.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏环旅travel","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/travel.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏厨艺cooking","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/cooking.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏影视entertainment","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/entertainment.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏家庭family","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/family.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏教育education","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/education.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏少儿kids","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/kids.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
-{"name":"🌏直播HK","type":0,"boot":true,"pass":true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/hk.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏Movies","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/movies.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏体育sports","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/sports.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏户外outdoor","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/outdoor.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏环旅travel","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/travel.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏厨艺cooking","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/cooking.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏影视entertainment","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/entertainment.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏家庭family","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/family.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏教育education","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/education.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏少儿kids","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/categories/kids.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+{"name":"🌏直播HK","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/hk.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
 {"name":"🟢BESTV-zball","type":0,"boot":true,"pass":true,"url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u","logo":"https://epg.112114.eu.org/logo/{name}.png","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","ua":"Mozilla/5.0(Windows NT 10.0; Win64; x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"},
@@ -705,7 +705,7 @@
 {"name":"☢️限H手机🉑020本地测试","type":0,"boot":false,"pass":true,"url":"http://127.0.0.1:9978/file/Download/Telegram/020.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
-{"name":"💠Json","type":1,"boot":true,"pass": true,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
+{"name":"💠Json","type":1,"boot":true,"pass": true,"url":"https://slink.ltd/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
 
       
                 
@@ -717,7 +717,7 @@
                                                                              
  "parses": [],
   
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/p1g.zip",
+"spider":"https://slink.ltd/https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/p1g.zip",
 
 "1spider":"./p1g.zip",
 
