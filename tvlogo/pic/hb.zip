@@ -7,17 +7,17 @@
 {"name":"🌙assets本地测试assets://hb.zip","url":"assets://bhdc/宝盒/bh.json"},
 
 
-{"url":"http://127.0.0.1:9978/file/tvbox/maoji/cc.php","name":"LocalProCⓂ️"},
-
-{"url":"file://tvbox/maoji/cc.php","name":"LocalProFile:CⓂ️"},
-
-
-
 {"url":"http://127.0.0.1:9978/file/tvbox/maoji/co.php","name":"❤️筱TV.Local🎀"},
+{"url":"file://tvbox/maoji/co.php","name":"备.❤️筱TV.Local🎀"},
 
-{"url":"http://127.0.0.1:9978/file/tvbox/maoji/Kid.php","name":"Kid儿童专线Local🎀"},
 
-{"url":"http://127.0.0.1:9978/file/tvbox/maoji/dad.php","name":"老人专线Local🎀"},
+{"url":"http://127.0.0.1:9978/file/tvbox/maoji/kid.php","name":"Kid儿童专线Local🎀"},
+{"url":"file://tvbox/maoji/kid.php","name":"备.Kid儿童专线Local🎀"},
+
+{"url":"http://127.0.0.1:9978/file/tvbox/maoji/dad.php","name":"老人长辈Local🎀"},
+{"url":"file://tvbox/maoji/dad.php","name":"备.长辈专线Local🎀"},
+
+
 
 {"url":"https://tang.hz.cz/api/user?token=d77fa13a","name":"唐三tang💝"},
 
