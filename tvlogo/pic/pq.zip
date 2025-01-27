@@ -333,6 +333,16 @@
 
 
 
+
+{"name":"🟢Guovin自动🌐","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
+
+
+
+{"name":"📺星火","type":0,"boot":false,"pass":true,"url":"https://json.doube.eu.org/XingHuo.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png", "header": {"Referer": "https://www.kds.tw/"}},
+
+
+
+
 {"name":"📺zblive","type":0,"boot":false,"pass":true,"url":"http://112.74.124.75:8899/zb.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
