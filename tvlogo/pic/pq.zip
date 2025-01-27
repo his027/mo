@@ -3,6 +3,9 @@
 {"key":"fmbili-VIP","name":"💖电视墙(VIP)❤️","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"filterable":1,"ext":{"cookie":"","type":"4K#8K#假窗#白噪音#儿童#动物世界#美丽中国#美丽地球#云旅行#美食#震撼#游泳#电影解说#MV#影视#音乐私藏#怀旧经典#摄影#魔术#知识#英语#公开课#学而思"}},
 
 
+{"key":"py_jieyingshi","name":"界影视🔰","type":3,"api":"https://json.doube.eu.org/python/py_jieyingshi.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
+
+{"key":"fm.短剧","name":"短剧🦁","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu"},
 
 {"key":"csp-Aid","name":"🚑急救┃科普💖","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
@@ -337,11 +340,10 @@
 {"name":"🟢Guovin自动🌐","type":0,"boot":true,"pass":true,"url":"https://slink.ltd/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
 
-
 {"name":"📺星火","type":0,"boot":false,"pass":true,"url":"https://json.doube.eu.org/XingHuo.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png", "header": {"Referer": "https://www.kds.tw/"}},
 
 
-
+{"name":"最强国内直播","type":0,"boot":false,"pass":true,"url":"http://www.52sw.top:678/iptv/dns-itv.txt","ua":"okhttp/3.15","epg":"http://iptv.52sw.top:668/epg/?ch={name}&date={date}","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 
 {"name":"📺zblive","type":0,"boot":false,"pass":true,"url":"http://112.74.124.75:8899/zb.txt","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 
