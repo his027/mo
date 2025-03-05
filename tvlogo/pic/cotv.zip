@@ -96,7 +96,9 @@
 {"name":"LOVENATURE4Kᴴᴰ","groupName":"DIY测试❤️","urls":["https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8","https://www.cxtvlive.com/live-tv/love-nature"]},
 {"name":"NATURE4Kᴴᴰ","groupName":"DIY测试❤️","urls":["http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8"]},
 
-{"name":"广东珠江","groupName":"DIY测试❤️","urls":["https://www.gdtv.cn/tvChannelDetail/44","http://cdn2.132.us.kg/live/gdzj/stream.m3u8"]},
+
+
+
 {"name":"凤凰中文伴音🎧","groupName":"DIY测试❤️","urls":["https://zuiai.tv/tv/Phoenix_Chinese_Channel.html","http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8"]},
 
 {"name":"凤凰资讯","groupName":"DIY测试❤️","urls":["http://cdn3.132.us.kg/live/fhzx/stream.m3u8"]},
@@ -181,9 +183,12 @@
 
 
 
+{"name":"广东珠江","groupName":"📺广东","urls":["http://120.198.101.106:9901/tsfile/live/1010_1.m3u8?key=txiptv","http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv","http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0","http://218.15.183.23:9901/tsfile/live/23009_1.m3u8","http://home.wwang.pw:35455/itv/2000000003000000033.m3u8?cdn=hnbblive","http://iptv.0564.org:35455/itv/2000000003000000033.m3u8?cdn=hnbblive","http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7152&tk=b53028476470",
+"http://cdn2.132.us.kg/live/gdzj/stream.m3u8"]},
 
 
-{"name":"广东珠江","groupName":"📺广东","urls":["https://www.gdtv.cn/tvChannelDetail/44","http://cdn2.132.us.kg/live/gdzj/stream.m3u8"]},
+{"name":"广东珠江💖","groupName":"📺广东","urls":["https://www.gdtv.cn/tvChannelDetail/44","https://m.gdtv.cn/tvChannelDetail/44"]},
+
 {"name":"粤💖外来媳妇本地郎(最新)","groupName":"📺广东","urls":["https://www.gdtv.cn/tvColumnVideo/788/"]},
 {"name":"粤💖外来媳妇本地郎(第一部)","groupName":"📺广东","urls":["https://www.gdtv.cn/tvColumnVideo/66700638/"]},
 {"name":"粤💖烦事有办法","groupName":"📺广东","urls":["https://www.gdtv.cn/tvColumnVideo/676/"]},
