@@ -100,8 +100,11 @@
 
 
 {"name":"凤凰中文伴音🎧","groupName":"DIY测试❤️","urls":["https://zuiai.tv/tv/Phoenix_Chinese_Channel.html","http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8"]},
+{"name":"凤凰中文","groupName":"DIY测试❤️","urls":["http://iptv.huuc.edu.cn/hls/fhzw.m3u8"]},
 
-{"name":"凤凰资讯","groupName":"DIY测试❤️","urls":["http://cdn3.132.us.kg/live/fhzx/stream.m3u8"]},
+{"name":"凤凰资讯","groupName":"DIY测试❤️","urls":["http://cdn3.132.us.kg/live/fhzx/stream.m3u8","http://iptv.huuc.edu.cn/hls/fhzx.m3u8"]},
+
+
 {"name":"凤凰资讯伴音🎧","groupName":"DIY测试❤️","urls":["https://zuiai.tv/tv/Phoenix_Infonews_Channel.html","http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"]},
 {"name":"💖回家吃饭","groupName":"DIY测试❤️","urls":["https://www.yangshipin.cn/video/home?lid=10354"]},
 
