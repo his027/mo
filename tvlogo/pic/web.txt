@@ -15,22 +15,28 @@
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8
 💠河源综合,http://A/ku9/js/web.js?id=https://www.hyrtv.cn/itv/zhds/
+💠河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 💠河源公共,http://A/ku9/js/web.js?id=https://www.hyrtv.cn/itv/ggds/
+💠河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 💠湖北综合,http://A/ku9/js/web.js?id=https://news.hbtv.com.cn/app/tv/433
 💠湖北经视,http://A/ku9/js/web.js?id=https://news.hbtv.com.cn/app/tv/432
-💠龙游电视,http://A/ku9/js/web.js?id=https://h5.cztv.com/longyou/h5/wap/
+💠龙游新闻,http://A/ku9/js/web.js?id=https://h5.cztv.com/longyou/h5/wap/
+💠龙游新闻,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游生活,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 💠金砖中文,http://A/ku9/js/web.js?id=https://tvbrics.com/cn/live/
 💠党校教育,http://A/ku9/js/web.js?id=https://dygbjy.12371.cn/
+💠香港环球卫视,http://A/ku9/js/web.js?id=http://www.hkgstv.com/cms/p/dianshizhibo.html
 
 
 凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文伴音🎧,http://A/ku9/js/web.js?id=https://zuiai.tv/tv/Phoenix_Chinese_Channel.html
-凤凰中文伴音🎧http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+凤凰中文伴音🎧,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
 凤凰资讯伴音🎧,http://A/ku9/js/web.js?id=hhttps://zuiai.tv/tv/Phoenix_Infonews_Channel.html,
-凤凰资讯伴音🎧http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰资讯伴音🎧,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 
 
 
@@ -39,9 +45,12 @@
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 💠赤壁电视台,http://A/ku9/js/web.js?id=https://m-chibi.cjyun.org/dsgb/index.html
+💠赤壁电视台,http://A/ku9/js/web.js?id=https://pc.chibi.com.cn/p/117220.html
 💠赤壁电视台,http://A/ku9/js/web.js?id=https://m-chibi.cjyun.org/p/117220.html
 💠赤壁电视台,http://A/ku9/js/web.js?id=https://chibi.cjyun.org/p/117220.html
 💠赤壁广播电台,http://A/ku9/js/web.js?id=http://m-chibi.cjyun.org/p/40969.html
+💠赤壁广播电台,http://A/ku9/js/web.js?id=https://m.chibi.com.cn/p/40969.html?from=singlemessag
+💠赤壁广播电台,http://A/ku9/js/web.js?id=https://pc.chibi.com.cn/p/40969.html?from=singlemessag
 
 💠中国网.中国3分钟,http://A/ku9/js/web.js?id=http://chinamosaic.china.com.cn/
 💠中国网.视频中国,http://A/ku9/js/web.js?id=http://v.china.com.cn/
@@ -53,16 +62,16 @@
 凤凰💠齐评天下,http://A/ku9/js/web.js?id=https://phtv.ifeng.com/channel/finance/59
 凤凰💠聚焦,http://A/ku9/js/web.js?id=https://phtv.ifeng.com/channel/subject/1603985
 凤凰💠总编辑时间,http://A/ku9/js/web.js?id=https://phtv.ifeng.com/channel/info/24
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
 
 
 
 
-
-测试💠,#genre#
+🧫测试💠,#genre#
 CCTV4K,https://slink.ltd/https://raw.githubusercontent.com/his027/mo/refs/heads/master/tvlogo/pic/web.js?id=https://yangshipin.cn/tv/home?pid=600002264
 
-
+💖回家吃饭,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/video/home?lid=10354
 
 粤💖外来媳妇本地郎(最新),http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvColumnVideo/788/
 粤💖外来媳妇本地郎(第一部),http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvColumnVideo/66700638/
@@ -94,6 +103,14 @@ VIYANA,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 FashionBox HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
 韩国EBS少儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 KBC 광주방송 (SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+CTPAHAFM🎶,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+Qmusic🎶,https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+Beat🎶,http://de1se01.v2beat.live/playlist.m3u8
+Rthkradio2,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+KCTV_HV1,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 
 RTHK33频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -103,7 +120,7 @@ RTHK34频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/strea
 RTHK35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 RTHK35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 
-💖回家吃饭,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/video/home?lid=10354
+
 小优🧫短剧1,http://A/ku9/js/web.js?id=https://www.youku.com/channel/shortvideo
 小优🧫短剧2,http://A/ku9/js/web.js?id=https://www.youku.com/channel/shortvideo?filter=type_文化
 小优🧫短剧3,http://A/ku9/js/web.js?id=https://www.youku.com/channel/shortvideo?filter=type_科技
@@ -121,21 +138,24 @@ A站随机🧫直播,http://A/ku9/js/web.js?id=https://live.acfun.cn/?ft=1&fi=3
 
 
 
-央视新闻💠,#genre#
+CCTV💠新闻📡,#genre#
 CCTV4,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv4/
 CCTV4,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001814
 CCTV4,http://A/ku9/js/web.js?id=https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952%26toc_style_id=feeds_only_back%26share_to=copy_url%26track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV13,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv13/
 CCTV13,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001811
 CCTV13,http://A/ku9/js/web.js?id=https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 CCTV13,http://A/ku9/js/web.js?id=https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228%26toc_style_id=feeds_only_back%26share_to=copy_url%26track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 CCTV13,http://A/ku9/js/web.js?id=https://web.guangdianyun.tv/tv/?id=3145%26uin=3744
 CCTV13,http://A/ku9/js/web.js?id=https://web.guangdianyun.tv/tv/?id=2935%26uin=1206
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 
 CCTV4欧,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV4美,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctvamerica/
 CCTV4K,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV1,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv1/
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://A/ku9/js/web.js?id=https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV1,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV1,http://A/ku9/js/web.js?id=https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886%26toc_style_id=feeds_only_back%26share_to=copy_url%26track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
@@ -145,6 +165,7 @@ CCTV1,http://A/ku9/js/web.js?id=https://web.guangdianyun.tv/tv/?id=1734%26uin=12
 CCTV2,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv2/
 CCTV2,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001800
 CCTV2,http://A/ku9/js/web.js?id=https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103%26toc_style_id=feeds_only_back%26share_to=copy_url%26track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV3,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=ca28d0abb279949ee03368a064522e10%26tid=ys%26id=3
 CCTV3,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv3/
 CCTV3,http://A/ku9/js/web.js?id=https://www.hndyjyfw.gov.cn/livePlay.html?u=2
@@ -185,7 +206,7 @@ CCTV17,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv17/
 CCTV17,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001810
 
 
-央视-数字💠,#genre#
+CCTV💠数字频道📡,#genre#
 CCTV风云剧场,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099620
@@ -222,7 +243,7 @@ CCTV电视指南频道,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?p
 CCTV卫生健康频道,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099651
 
 
-卫视-央视频💠,#genre#
+卫视💠央视频📡,#genre#
 湖南卫视,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600002475
 湖南卫视,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=23c14885b87d5c033ebbd1b7f20fde52%26tid=ws%26id=1
 江苏卫视,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600002521
@@ -263,7 +284,7 @@ CCTV卫生健康频道,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?p
 
 
 
-香港345iptv💠,#genre#
+香港📡345iptv💠,#genre#
 凤凰中文,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=c205c833867e1d0cdcad6e113e628c35%26tid=gt%26id=1
 凤凰资讯,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=9357ae301d8622b418598d2d8ed17892%26tid=gt%26id=2
 凤凰香港,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=526b2628ac693b275f758ffe5361fb12%26tid=gt%26id=3
@@ -282,7 +303,7 @@ HOY TV,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=77cb7757
 港台电视32,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=a9e78c79004af6100be6762070cc882e%26tid=gt%26id=27
 
 
-弯弯345iptv💠,#genre#
+弯弯📡345iptv💠,#genre#
 中天新闻,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=c5099746050c41f288c9c50a5002539b%26tid=gt%26id=43
 东森新闻,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=8965fb967119ad09f0df8ec90b5df34b%26tid=gt%26id=44
 中视新闻,http://A/ku9/js/web.js?id=http://m.345iptv.com/?act=play%26token=f433a3a8a177d0b012b4b337558191c2%26tid=gt%26id=46
@@ -1078,7 +1099,66 @@ player=1
 
 
 
-
+📺《人世间》,#genre#
+人世间,https://vd2.bdstatic.com/mda-nauirfshe04qyzin/sc/cae_h264_nowatermark_delogo/1643511491732982193/mda-nauirfshe04qyzin.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1696440752-0-0-8f5fd9fa644ea1e2cb408882303db140&bcevod_channel=searchbox_feed&pd=1&cr=2&cd=0&pt=3&logid=1952072723&vid=6174124887638654123&klogid=1952072723&abtest=112345_1-112751_4
+人世间EP01,https://dow.dowlzi.com/20220317/155_eaea733f/人世间EP01.mp4
+人世间EP02,https://dow.dowlzi.com/20220317/156_44471711/人世间EP02.mp4
+人世间EP03,https://dow.dowlzi.com/20220317/157_6650760e/人世间EP03.mp4
+人世间EP04,https://dow.dowlzi.com/20220317/158_2f9b0a29/人世间EP04.mp4
+人世间EP05,https://dow.dowlzi.com/20220317/159_05ed3c63/人世间EP05.mp4
+人世间EP06,https://dow.dowlzi.com/20220317/160_5e546962/人世间EP06.mp4
+人世间EP07,https://dow.dowlzi.com/20220317/161_c0cf8440/人世间EP07.mp4
+人世间EP08,https://dow.dowlzi.com/20220317/162_caf3f34c/人世间EP08.mp4
+人世间EP09,https://dow.dowlzi.com/20220317/163_26065b60/人世间EP09.mp4
+人世间EP10,https://dow.dowlzi.com/20220317/164_8833d5cc/人世间EP10.mp4
+人世间EP11,https://dow.dowlzi.com/20220317/165_e0ab86f7/人世间EP11.mp4
+人世间EP12,https://dow.dowlzi.com/20220317/166_d492bedb/人世间EP12.mp4
+人世间EP13,https://dow.dowlzi.com/20220317/167_3c399fef/人世间EP13.mp4
+人世间EP14,https://dow.dowlzi.com/20220317/168_8929f1f7/人世间EP14.mp4
+人世间EP15,https://dow.dowlzi.com/20220317/169_30e4ad21/人世间EP15.mp4
+人世间EP16,https://dow.dowlzi.com/20220317/170_9a2104de/人世间EP16.mp4
+人世间EP17,https://dow.dowlzi.com/20220317/171_a4fd80d7/人世间EP17.mp4
+人世间EP18,https://dow.dowlzi.com/20220317/172_e23d5b53/人世间EP18.mp4
+人世间EP19,https://dow.dowlzi.com/20220317/173_6fa2aa88/人世间EP19.mp4
+人世间EP20,https://dow.dowlzi.com/20220317/174_7e425810/人世间EP20.mp4
+人世间EP21,https://dow.dowlzi.com/20220317/175_f4deb706/人世间EP21.mp4
+人世间EP22,https://dow.dowlzi.com/20220317/176_69707efc/人世间EP22.mp4
+人世间EP23,https://dow.dowlzi.com/20220317/177_489af4f8/人世间EP23.mp4
+人世间EP24,https://dow.dowlzi.com/20220317/178_c2439a76/人世间EP24.mp4
+人世间EP25,https://dow.dowlzi.com/20220317/179_240a1cfb/人世间EP25.mp4
+人世间EP26,https://dow.dowlzi.com/20220317/180_71cae407/人世间EP26.mp4
+人世间EP27,https://dow.dowlzi.com/20220317/181_89f85d86/人世间EP27.mp4
+人世间EP28,https://dow.dowlzi.com/20220317/182_28016f22/人世间EP28.mp4
+人世间EP29,https://dow.dowlzi.com/20220317/183_fc8edb94/人世间EP29.mp4
+人世间EP30,https://dow.dowlzi.com/20220317/184_52d95dbd/人世间EP30.mp4
+人世间EP31,https://dow.dowlzi.com/20220317/185_c545ff10/人世间EP31.mp4
+人世间EP32,https://dow.dowlzi.com/20220317/186_e38d1025/人世间EP32.mp4
+人世间EP33,https://dow.dowlzi.com/20220317/187_0209b3d9/人世间EP33.mp4
+人世间EP34,https://dow.dowlzi.com/20220317/188_da3c62a6/人世间EP34.mp4
+人世间EP35,https://dow.dowlzi.com/20220317/189_f7b9310c/人世间EP35.mp4
+人世间EP36,https://dow.dowlzi.com/20220317/190_92b699bd/人世间EP36.mp4
+人世间EP37,https://dow.dowlzi.com/20220317/191_f27cee9a/人世间EP37.mp4
+人世间EP38,https://dow.dowlzi.com/20220317/192_68bc0912/人世间EP38.mp4
+人世间EP39,https://dow.dowlzi.com/20220317/193_8566f935/人世间EP39.mp4
+人世间EP40,https://dow.dowlzi.com/20220317/194_cb8fcd9d/人世间EP40.mp4
+人世间EP41,https://dow.dowlzi.com/20220317/195_e966812d/人世间EP41.mp4
+人世间EP42,https://dow.dowlzi.com/20220317/196_d316c015/人世间EP42.mp4
+人世间EP43,https://dow.dowlzi.com/20220317/197_25c8f663/人世间EP43.mp4
+人世间EP44,https://dow.dowlzi.com/20220317/198_36587030/人世间EP44.mp4
+人世间EP45,https://dow.dowlzi.com/20220317/199_68c65db8/人世间EP45.mp4
+人世间EP46,https://dow.dowlzi.com/20220317/200_9e9f4be5/人世间EP46.mp4
+人世间EP47,https://dow.dowlzi.com/20220317/201_5cbf707e/人世间EP47.mp4
+人世间EP48,https://dow.dowlzi.com/20220317/202_9f1defcd/人世间EP48.mp4
+人世间EP49,https://dow.dowlzi.com/20220317/203_c2860c89/人世间EP49.mp4
+人世间EP50,https://dow.dowlzi.com/20220317/204_8ee52054/人世间EP50.mp4
+人世间EP51,https://dow.dowlzi.com/20220317/205_54cd5cb4/人世间EP51.mp4
+人世间EP52,https://dow.dowlzi.com/20220317/206_b9474162/人世间EP52.mp4
+人世间EP53,https://dow.dowlzi.com/20220317/207_06fddb42/人世间EP53.mp4
+人世间EP54,https://dow.dowlzi.com/20220317/208_6adcbcca/人世间EP54.mp4
+人世间EP55,https://dow.dowlzi.com/20220317/209_5a1243f3/人世间EP55.mp4
+人世间EP56,https://dow.dowlzi.com/20220317/210_e93b1f0e/人世间EP56.mp4
+人世间EP57,https://dow.dowlzi.com/20220317/211_bff27e33/人世间EP57.mp4
+人世间EP58,https://dow.dowlzi.com/20220317/212_a7da99d5/人世间EP58.mp4
 
 
 
@@ -1321,6 +1401,485 @@ player=1
 剧集_邻里一家亲,http://A/ku9/js/web.js?id=https://www.huya.com/11342426
 
 
+🐆虎牙影视iframe💠,#genre#
+电影_星爷,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342412
+电影_英叔,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342421
+电影_发哥,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342387
+电影_成龙,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342386
+电影_王晶,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602058
+电影_沈腾,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601968
+电影_黄渤,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352876
+电影_强森,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059581
+电影_漫威,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602034
+电影_宇宙,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342428
+电影_怪兽,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059577
+电影_武侠,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342427
+电影_警匪,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352886
+电影_罪犯,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352962
+电影_枪战,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059579
+电影_海盗,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059595
+电影_赛车,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11279247
+电影_推荐,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602041
+电影_救援,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059594
+电影_热血,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352934
+电影_盗墓,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059552
+电影_贺岁,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601971
+电影_玄幻,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342414
+电影_谍战,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059585
+电影_战争,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059592
+电影_喜剧,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352877
+电影_港片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602043
+电影_国产,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352973
+电影_周星星,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336587
+电影_李连杰,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342390
+电影_洪金宝,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11279251
+电影_梁家辉,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342429
+电影_刘德华,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342424
+电影_斯坦森,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059588
+电影_小鬼头,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352963
+电影_八点档,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/880261
+电影_蜘蛛侠,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059599
+电影_贺岁片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601986
+电影_功夫片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352941
+电影_黑帮片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336719
+电影_丧尸片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059578
+电影_灾难片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602075
+电影_谍战片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059587
+电影_战争片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059574
+电影_犯罪片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352974
+电影_古装片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336590
+电影_高分动作,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352884
+电影_动作电影,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602077
+电影_搞笑喜剧,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342423
+电影_喜剧专场,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602044
+电影_欢笑影院,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352894
+电影_不挤影院,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352897
+电影_国产悬疑,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342395
+电影_快意江湖,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342435
+电影_黑帮斗争,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342419
+电影_嫣然影厅,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601977
+电影_许氏三杰,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602033
+电影_经典港片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352965
+电影_镖行天下,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352969
+电影_高能反转,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352887
+电影_喜乐影院,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059580
+电影_蘑菇影厅,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601981
+电影_搞笑恐怖,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601960
+电影_死神来了,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352903
+电影_变形金刚,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059596
+电影_怪兽系列,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059554
+剧集_老三国,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602081
+剧集_新三国,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352944
+剧集_新水浒,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342384
+剧集_纪晓岚,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342396
+剧集_庆余年,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352960
+剧集_雍正王朝,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342439
+剧集_士兵突击,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11319774
+剧集_爱情公寓,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336726
+剧集_武林外传,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059598
+剧集_地下交通站,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342433
+剧集_邻里一家亲,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342426
+电影_星爷,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342412
+电影_英叔,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342421
+电影_发哥,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342387
+电影_成龙,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342386
+电影_王晶,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602058
+电影_沈腾,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601968
+电影_黄渤,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352876
+电影_强森,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059581
+电影_漫威,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602034
+电影_周星星,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336587
+电影_李连杰,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342390
+电影_洪金宝,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11279251
+电影_梁家辉,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342429
+电影_刘德华,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342424
+电影_斯坦森,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059588
+电影_曾江,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601981
+电影_周海媚,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11279247
+电影_宇宙,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342428
+电影_怪兽,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059577
+电影_武侠,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342427
+电影_警匪,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352886
+电影_罪犯,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352962
+电影_枪战,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059579
+电影_海盗,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059595
+电影_推荐,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602041
+电影_救援,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059594
+电影_热血,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352934
+电影_盗墓,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059552
+电影_贺岁,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601971
+电影_玄幻,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342414
+电影_谍战,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059585
+电影_战争,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059592
+电影_喜剧,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352877
+电影_港片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602043
+电影_国产,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352973
+电影_八点档,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/880261
+电影_超异能族,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059586
+电影_古墓系列,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352913
+电影_蜘蛛侠,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059599
+电影_贺岁片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601986
+电影_功夫片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352941
+电影_黑帮片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336719
+电影_丧尸片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe//21059578
+电影_灾难片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602075
+电影_谍战片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059587
+电影_战争片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059574
+电影_犯罪片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352974
+电影_古装片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336590
+电影_高分动作,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352884
+电影_动作电影,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602077
+电影_搞笑喜剧,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342423
+电影_喜剧专场,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602044
+电影_欢笑影院,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352894
+电影_不挤影院,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352897
+电影_国产悬疑,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342395
+电影_快意江湖,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342435
+电影_黑帮斗争,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342419
+电影_嫣然影厅,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601977
+电影_许氏三杰,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602033
+电影_经典港片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352965
+电影_镖行天下,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352969
+电影_高能反转,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352887
+电影_喜乐影院,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059580
+电影_蘑菇影厅,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601981
+电影_搞笑恐怖,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601960
+电影_死神来了,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352903
+电影_变形金刚,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059596
+电影_怪兽系列,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059554
+剧集_老三国,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602081
+剧集_新三国,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352944
+剧集_新水浒,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342384
+剧集_纪晓岚,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342396
+剧集_庆余年,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352960
+剧集_雍正王朝,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342439
+剧集_士兵突击,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11319774
+剧集_爱情公寓,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336726
+剧集_武林外传,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059598
+剧集_地下交通站,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342433
+剧集_邻里一家亲,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342426
+搞笑_陈翔六点半,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11274154
+电影_星爷,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342412
+电影_英叔,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342421
+电影_发哥,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342387
+电影_成龙,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342386
+电影_王晶,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602058
+电影_沈腾,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601968
+电影_黄渤,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352876
+电影_强森,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059581
+电影_漫威,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602034
+电影_周星星,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336587
+电影_李连杰,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342390
+电影_洪金宝,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11279251
+电影_梁家辉,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342429
+电影_刘德华,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342424
+电影_斯坦森,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059588
+电影_曾江,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601981
+电影_周海媚,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11279247
+电影_宇宙,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342428
+电影_怪兽,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059577
+电影_武侠,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342427
+电影_警匪,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352886
+电影_罪犯,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352962
+电影_枪战,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059579
+电影_海盗,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059595
+电影_推荐,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602041
+电影_救援,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059594
+电影_热血,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352934
+电影_盗墓,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059552
+电影_贺岁,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601971
+电影_玄幻,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342414
+电影_谍战,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059585
+电影_战争,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059592
+电影_喜剧,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352877
+电影_港片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602043
+电影_国产,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352973
+电影_八点档,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/880261
+电影_超异能族,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059586
+电影_古墓系列,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352913
+电影_蜘蛛侠,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059599
+电影_贺岁片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601986
+电影_功夫片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352941
+电影_黑帮片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336719
+电影_丧尸片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe//21059578
+电影_灾难片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602075
+电影_谍战片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059587
+电影_战争片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059574
+电影_犯罪片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352974
+电影_古装片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336590
+电影_高分动作,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352884
+电影_动作电影,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602077
+电影_搞笑喜剧,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342423
+电影_喜剧专场,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602044
+电影_欢笑影院,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352894
+电影_不挤影院,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352897
+电影_国产悬疑,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342395
+电影_快意江湖,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342435
+电影_黑帮斗争,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342419
+电影_嫣然影厅,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601977
+电影_许氏三杰,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602033
+电影_经典港片,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352965
+电影_镖行天下,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352969
+电影_高能反转,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352887
+电影_喜乐影院,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059580
+电影_蘑菇影厅,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601981
+电影_搞笑恐怖,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11601960
+电影_死神来了,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352903
+电影_变形金刚,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059596
+电影_怪兽系列,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059554
+剧集_老三国,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11602081
+剧集_新三国,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352944
+剧集_新水浒,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342384
+剧集_纪晓岚,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342396
+剧集_庆余年,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11352960
+剧集_雍正王朝,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342439
+剧集_士兵突击,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11319774
+剧集_爱情公寓,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11336726
+剧集_武林外传,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/21059598
+剧集_地下交通站,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342433
+剧集_邻里一家亲,http://A/ku9/js/web.js?id=https://liveshare.huya.com/iframe/11342426
+
+
+🐆🐅虎牙,#genre#
+电影_星爷,https://live.metshop.top/huya/11342412
+电影_英叔,https://live.metshop.top/huya/11342421
+电影_发哥,https://live.metshop.top/huya/11342387
+电影_成龙,https://live.metshop.top/huya/11342386
+电影_王晶,https://live.metshop.top/huya/11602058
+电影_沈腾,https://live.metshop.top/huya/11601968
+电影_黄渤,https://live.metshop.top/huya/11352876
+电影_强森,https://live.metshop.top/huya/21059581
+电影_漫威,https://live.metshop.top/huya/11602034
+电影_宇宙,https://live.metshop.top/huya/11342428
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_武侠,https://live.metshop.top/huya/11342427
+电影_警匪,https://live.metshop.top/huya/11352886
+电影_罪犯,https://live.metshop.top/huya/11352962
+电影_枪战,https://live.metshop.top/huya/21059579
+电影_海盗,https://live.metshop.top/huya/21059595
+电影_赛车,https://live.metshop.top/huya/11279247
+电影_推荐,https://live.metshop.top/huya/11602041
+电影_救援,https://live.metshop.top/huya/21059594
+电影_热血,https://live.metshop.top/huya/11352934
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_贺岁,https://live.metshop.top/huya/11601971
+电影_玄幻,https://live.metshop.top/huya/11342414
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_战争,https://live.metshop.top/huya/21059592
+电影_喜剧,https://live.metshop.top/huya/11352877
+电影_港片,https://live.metshop.top/huya/11602043
+电影_国产,https://live.metshop.top/huya/11352973
+电影_周星星,https://live.metshop.top/huya/11336587
+电影_李连杰,https://live.metshop.top/huya/11342390
+电影_洪金宝,https://live.metshop.top/huya/11279251
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_刘德华,https://live.metshop.top/huya/11342424
+电影_斯坦森,https://live.metshop.top/huya/21059588
+电影_小鬼头,https://live.metshop.top/huya/11352963
+电影_八点档,https://live.metshop.top/huya/880261
+电影_蜘蛛侠,https://live.metshop.top/huya/21059599
+电影_贺岁片,https://live.metshop.top/huya/11601986
+电影_功夫片,https://live.metshop.top/huya/11352941
+电影_黑帮片,https://live.metshop.top/huya/11336719
+电影_丧尸片,https://live.metshop.top/huya/21059578
+电影_灾难片,https://live.metshop.top/huya/11602075
+电影_谍战片,https://live.metshop.top/huya/21059587
+电影_战争片,https://live.metshop.top/huya/21059574
+电影_犯罪片,https://live.metshop.top/huya/11352974
+电影_古装片,https://live.metshop.top/huya/11336590
+电影_高分动作,https://live.metshop.top/huya/11352884
+电影_动作电影,https://live.metshop.top/huya/11602077
+电影_搞笑喜剧,https://live.metshop.top/huya/11342423
+电影_喜剧专场,https://live.metshop.top/huya/11602044
+电影_欢笑影院,https://live.metshop.top/huya/11352894
+电影_不挤影院,https://live.metshop.top/huya/11352897
+电影_国产悬疑,https://live.metshop.top/huya/11342395
+电影_快意江湖,https://live.metshop.top/huya/11342435
+电影_黑帮斗争,https://live.metshop.top/huya/11342419
+电影_嫣然影厅,https://live.metshop.top/huya/11601977
+电影_许氏三杰,https://live.metshop.top/huya/11602033
+电影_经典港片,https://live.metshop.top/huya/11352965
+电影_镖行天下,https://live.metshop.top/huya/11352969
+电影_高能反转,https://live.metshop.top/huya/11352887
+电影_喜乐影院,https://live.metshop.top/huya/21059580
+电影_蘑菇影厅,https://live.metshop.top/huya/11601981
+电影_搞笑恐怖,https://live.metshop.top/huya/11601960
+电影_死神来了,https://live.metshop.top/huya/11352903
+电影_变形金刚,https://live.metshop.top/huya/21059596
+电影_怪兽系列,https://live.metshop.top/huya/21059554
+剧集_老三国,https://live.metshop.top/huya/11602081
+剧集_新三国,https://live.metshop.top/huya/11352944
+剧集_新水浒,https://live.metshop.top/huya/11342384
+剧集_纪晓岚,https://live.metshop.top/huya/11342396
+剧集_庆余年,https://live.metshop.top/huya/11352960
+剧集_雍正王朝,https://live.metshop.top/huya/11342439
+剧集_士兵突击,https://live.metshop.top/huya/11319774
+剧集_爱情公寓,https://live.metshop.top/huya/11336726
+剧集_武林外传,https://live.metshop.top/huya/21059598
+剧集_地下交通站,https://live.metshop.top/huya/11342433
+剧集_邻里一家亲,https://live.metshop.top/huya/11342426
+电影_星爷,https://live.metshop.top/huya/11342412
+电影_英叔,https://live.metshop.top/huya/11342421
+电影_发哥,https://live.metshop.top/huya/11342387
+电影_成龙,https://live.metshop.top/huya/11342386
+电影_王晶,https://live.metshop.top/huya/11602058
+电影_沈腾,https://live.metshop.top/huya/11601968
+电影_黄渤,https://live.metshop.top/huya/11352876
+电影_强森,https://live.metshop.top/huya/21059581
+电影_漫威,https://live.metshop.top/huya/11602034
+电影_周星星,https://live.metshop.top/huya/11336587
+电影_李连杰,https://live.metshop.top/huya/11342390
+电影_洪金宝,https://live.metshop.top/huya/11279251
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_刘德华,https://live.metshop.top/huya/11342424
+电影_斯坦森,https://live.metshop.top/huya/21059588
+电影_曾江,https://live.metshop.top/huya/11601981
+电影_周海媚,https://live.metshop.top/huya/11279247
+电影_宇宙,https://live.metshop.top/huya/11342428
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_武侠,https://live.metshop.top/huya/11342427
+电影_警匪,https://live.metshop.top/huya/11352886
+电影_罪犯,https://live.metshop.top/huya/11352962
+电影_枪战,https://live.metshop.top/huya/21059579
+电影_海盗,https://live.metshop.top/huya/21059595
+电影_推荐,https://live.metshop.top/huya/11602041
+电影_救援,https://live.metshop.top/huya/21059594
+电影_热血,https://live.metshop.top/huya/11352934
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_贺岁,https://live.metshop.top/huya/11601971
+电影_玄幻,https://live.metshop.top/huya/11342414
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_战争,https://live.metshop.top/huya/21059592
+电影_喜剧,https://live.metshop.top/huya/11352877
+电影_港片,https://live.metshop.top/huya/11602043
+电影_国产,https://live.metshop.top/huya/11352973
+电影_八点档,https://live.metshop.top/huya/880261
+电影_超异能族,https://live.metshop.top/huya/21059586
+电影_古墓系列,https://live.metshop.top/huya/11352913
+电影_蜘蛛侠,https://live.metshop.top/huya/21059599
+电影_贺岁片,https://live.metshop.top/huya/11601986
+电影_功夫片,https://live.metshop.top/huya/11352941
+电影_黑帮片,https://live.metshop.top/huya/11336719
+电影_丧尸片,https://live.metshop.top/huya//21059578
+电影_灾难片,https://live.metshop.top/huya/11602075
+电影_谍战片,https://live.metshop.top/huya/21059587
+电影_战争片,https://live.metshop.top/huya/21059574
+电影_犯罪片,https://live.metshop.top/huya/11352974
+电影_古装片,https://live.metshop.top/huya/11336590
+电影_高分动作,https://live.metshop.top/huya/11352884
+电影_动作电影,https://live.metshop.top/huya/11602077
+电影_搞笑喜剧,https://live.metshop.top/huya/11342423
+电影_喜剧专场,https://live.metshop.top/huya/11602044
+电影_欢笑影院,https://live.metshop.top/huya/11352894
+电影_不挤影院,https://live.metshop.top/huya/11352897
+电影_国产悬疑,https://live.metshop.top/huya/11342395
+电影_快意江湖,https://live.metshop.top/huya/11342435
+电影_黑帮斗争,https://live.metshop.top/huya/11342419
+电影_嫣然影厅,https://live.metshop.top/huya/11601977
+电影_许氏三杰,https://live.metshop.top/huya/11602033
+电影_经典港片,https://live.metshop.top/huya/11352965
+电影_镖行天下,https://live.metshop.top/huya/11352969
+电影_高能反转,https://live.metshop.top/huya/11352887
+电影_喜乐影院,https://live.metshop.top/huya/21059580
+电影_蘑菇影厅,https://live.metshop.top/huya/11601981
+电影_搞笑恐怖,https://live.metshop.top/huya/11601960
+电影_死神来了,https://live.metshop.top/huya/11352903
+电影_变形金刚,https://live.metshop.top/huya/21059596
+电影_怪兽系列,https://live.metshop.top/huya/21059554
+剧集_老三国,https://live.metshop.top/huya/11602081
+剧集_新三国,https://live.metshop.top/huya/11352944
+剧集_新水浒,https://live.metshop.top/huya/11342384
+剧集_纪晓岚,https://live.metshop.top/huya/11342396
+剧集_庆余年,https://live.metshop.top/huya/11352960
+剧集_雍正王朝,https://live.metshop.top/huya/11342439
+剧集_士兵突击,https://live.metshop.top/huya/11319774
+剧集_爱情公寓,https://live.metshop.top/huya/11336726
+剧集_武林外传,https://live.metshop.top/huya/21059598
+剧集_地下交通站,https://live.metshop.top/huya/11342433
+剧集_邻里一家亲,https://live.metshop.top/huya/11342426
+搞笑_陈翔六点半,https://live.metshop.top/huya/11274154
+电影_星爷,https://live.metshop.top/huya/11342412
+电影_英叔,https://live.metshop.top/huya/11342421
+电影_发哥,https://live.metshop.top/huya/11342387
+电影_成龙,https://live.metshop.top/huya/11342386
+电影_王晶,https://live.metshop.top/huya/11602058
+电影_沈腾,https://live.metshop.top/huya/11601968
+电影_黄渤,https://live.metshop.top/huya/11352876
+电影_强森,https://live.metshop.top/huya/21059581
+电影_漫威,https://live.metshop.top/huya/11602034
+电影_周星星,https://live.metshop.top/huya/11336587
+电影_李连杰,https://live.metshop.top/huya/11342390
+电影_洪金宝,https://live.metshop.top/huya/11279251
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_刘德华,https://live.metshop.top/huya/11342424
+电影_斯坦森,https://live.metshop.top/huya/21059588
+电影_曾江,https://live.metshop.top/huya/11601981
+电影_周海媚,https://live.metshop.top/huya/11279247
+电影_宇宙,https://live.metshop.top/huya/11342428
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_武侠,https://live.metshop.top/huya/11342427
+电影_警匪,https://live.metshop.top/huya/11352886
+电影_罪犯,https://live.metshop.top/huya/11352962
+电影_枪战,https://live.metshop.top/huya/21059579
+电影_海盗,https://live.metshop.top/huya/21059595
+电影_推荐,https://live.metshop.top/huya/11602041
+电影_救援,https://live.metshop.top/huya/21059594
+电影_热血,https://live.metshop.top/huya/11352934
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_贺岁,https://live.metshop.top/huya/11601971
+电影_玄幻,https://live.metshop.top/huya/11342414
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_战争,https://live.metshop.top/huya/21059592
+电影_喜剧,https://live.metshop.top/huya/11352877
+电影_港片,https://live.metshop.top/huya/11602043
+电影_国产,https://live.metshop.top/huya/11352973
+电影_八点档,https://live.metshop.top/huya/880261
+电影_超异能族,https://live.metshop.top/huya/21059586
+电影_古墓系列,https://live.metshop.top/huya/11352913
+电影_蜘蛛侠,https://live.metshop.top/huya/21059599
+电影_贺岁片,https://live.metshop.top/huya/11601986
+电影_功夫片,https://live.metshop.top/huya/11352941
+电影_黑帮片,https://live.metshop.top/huya/11336719
+电影_丧尸片,https://live.metshop.top/huya//21059578
+电影_灾难片,https://live.metshop.top/huya/11602075
+电影_谍战片,https://live.metshop.top/huya/21059587
+电影_战争片,https://live.metshop.top/huya/21059574
+电影_犯罪片,https://live.metshop.top/huya/11352974
+电影_古装片,https://live.metshop.top/huya/11336590
+电影_高分动作,https://live.metshop.top/huya/11352884
+电影_动作电影,https://live.metshop.top/huya/11602077
+电影_搞笑喜剧,https://live.metshop.top/huya/11342423
+电影_喜剧专场,https://live.metshop.top/huya/11602044
+电影_欢笑影院,https://live.metshop.top/huya/11352894
+电影_不挤影院,https://live.metshop.top/huya/11352897
+电影_国产悬疑,https://live.metshop.top/huya/11342395
+电影_快意江湖,https://live.metshop.top/huya/11342435
+电影_黑帮斗争,https://live.metshop.top/huya/11342419
+电影_嫣然影厅,https://live.metshop.top/huya/11601977
+电影_许氏三杰,https://live.metshop.top/huya/11602033
+电影_经典港片,https://live.metshop.top/huya/11352965
+电影_镖行天下,https://live.metshop.top/huya/11352969
+电影_高能反转,https://live.metshop.top/huya/11352887
+电影_喜乐影院,https://live.metshop.top/huya/21059580
+电影_蘑菇影厅,https://live.metshop.top/huya/11601981
+电影_搞笑恐怖,https://live.metshop.top/huya/11601960
+电影_死神来了,https://live.metshop.top/huya/11352903
+电影_变形金刚,https://live.metshop.top/huya/21059596
+电影_怪兽系列,https://live.metshop.top/huya/21059554
+剧集_老三国,https://live.metshop.top/huya/11602081
+剧集_新三国,https://live.metshop.top/huya/11352944
+剧集_新水浒,https://live.metshop.top/huya/11342384
+剧集_纪晓岚,https://live.metshop.top/huya/11342396
+剧集_庆余年,https://live.metshop.top/huya/11352960
+剧集_雍正王朝,https://live.metshop.top/huya/11342439
+剧集_士兵突击,https://live.metshop.top/huya/11319774
+剧集_爱情公寓,https://live.metshop.top/huya/11336726
+剧集_武林外传,https://live.metshop.top/huya/21059598
+剧集_地下交通站,https://live.metshop.top/huya/11342433
+剧集_邻里一家亲,https://live.metshop.top/huya/11342426
+
+
+
 
 📀斗鱼💠,#genre#
 斗鱼-百科片场,http://A/ku9/js/web.js?id=https://m.douyu.com/11529003
@@ -1372,6 +1931,58 @@ player=1
 连续剧3,http://A/ku9/js/web.js?id=https://m.douyu.com/5689514
 连续剧4,http://A/ku9/js/web.js?id=https://m.douyu.com/7476264
 连续剧5,http://A/ku9/js/web.js?id=https://m.douyu.com/4396972
+
+
+🐟斗鱼,#genre#
+斗鱼-百科片场,https://live.metshop.top/douyu/11529003
+斗鱼-虫哥说电影,https://live.metshop.top/douyu/8915074
+斗鱼-电影最TOP,https://live.metshop.top/douyu/2164691
+斗鱼-铁血影视汇,https://live.metshop.top/douyu/9649701
+斗鱼4K,https://live.metshop.top/douyu/9249162
+斗鱼电视剧HD4,https://live.metshop.top/douyu/6566658
+斗鱼电视剧HD3,https://live.metshop.top/douyu/6706214
+斗鱼电视剧HD2,https://live.metshop.top/douyu/7489563
+粤语综艺,https://live.metshop.top/douyu/7919720
+华语经典,https://live.metshop.top/douyu/434971
+吃米滴虫,https://live.metshop.top/douyu/315457
+神乐影片1,https://live.metshop.top/douyu/122402
+神乐影片2,https://live.metshop.top/douyu/85894
+特辑影院,https://live.metshop.top/douyu/3637778
+贝爷MAX厅,https://live.metshop.top/douyu/4332
+漫威影片,https://live.metshop.top/douyu/6140589
+周星驰电影,https://live.metshop.top/douyu/3990812
+刘德华电影1,https://live.metshop.top/douyu/2516864
+刘德华电影2,https://live.metshop.top/douyu/8985415
+喜剧经典,https://live.metshop.top/douyu/9650887
+豆瓣高分,https://live.metshop.top/douyu/8770422
+林正英电影1,https://live.metshop.top/douyu/218859
+林正英电影2,https://live.metshop.top/douyu/7356023
+女神金电影,https://live.metshop.top/douyu/747764
+贝爷影厅1,https://live.metshop.top/douyu/252802
+贝爷影厅2,https://live.metshop.top/douyu/36337
+霍格影片,https://live.metshop.top/douyu/8814650
+可乐电影,https://live.metshop.top/douyu/20415
+冰冰经典电影,https://live.metshop.top/douyu/74374
+奶虫恐怖电影,https://live.metshop.top/douyu/263824
+奶瓶科幻片,https://live.metshop.top/douyu/6655271
+避风港影院,https://live.metshop.top/douyu/9826611
+林林影院,https://live.metshop.top/douyu/9652323
+漫威电影,https://live.metshop.top/douyu/4282654
+恐怖经典,https://live.metshop.top/douyu/1165374
+变种人电影,https://live.metshop.top/douyu/9651304
+华语电影,https://live.metshop.top/douyu/3928
+华语动作电影,https://live.metshop.top/douyu/1504768
+怀旧90,https://live.metshop.top/douyu/9275635
+国产影片,https://live.metshop.top/douyu/5423
+麓山迷踪,https://live.metshop.top/douyu/4505431
+高帧影片,https://live.metshop.top/douyu/6763930
+米娅电影,https://live.metshop.top/douyu/6537888
+小九电影,https://live.metshop.top/douyu/7136517
+连续剧1,https://live.metshop.top/douyu/4549169
+连续剧2,https://live.metshop.top/douyu/7623292
+连续剧3,https://live.metshop.top/douyu/5689514
+连续剧4,https://live.metshop.top/douyu/7476264
+连续剧5,https://live.metshop.top/douyu/4396972
 
 
 📻国内🎧💠,#genre#
